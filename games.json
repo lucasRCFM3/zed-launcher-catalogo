@@ -24,8 +24,8 @@
     "gameSizeBytes": null
   },
   {
-    "name": "Cities: Skylines II",
-    "version": "1.5.5f1",
+    "name": "Cities: Skylines II Ultimate Edition",
+    "version": "1.5.6f1",
     "date": "",
     "icon": "https://cdn2.steamgriddb.com/icon/48388b43175c3c7bc2c83a6225387a1a.ico",
     "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1773949108",
@@ -33,22 +33,22 @@
     "dependentParts": "ambos",
     "downloadUrl": null,
     "partLinks": [
-      "https://www.mediafire.com/file/hyt1my2xrmrgonv/LX_SKYSKYSK_001.rar/file",
-      "https://www.mediafire.com/file/0wwec6gelwpw45i/LX_SKYSKYSK_002.rar/file",
-      "https://www.mediafire.com/file/apraajy7mvlwuap/LX_SKYSKYSK_003.rar/file",
-      "https://www.mediafire.com/file/kwkvcrfy34u8yzc/LX_SKYSKYSK_004.rar/file",
-      "https://www.mediafire.com/file/sr3ahixi94lg0a7/BlaLX_SKYSKYSK_005.rar/file",
-      "https://www.mediafire.com/file/r42be3x3s7qfsdz/LX_SKYSKYSK_006_lxpta6.part1.rar/file",
-      "https://www.mediafire.com/file/ddpvzm93p64aotd/LX_SKYSKYSK_006_lxpta6.part2.rar/file",
-      "https://www.mediafire.com/file/epce9wcr6lxboyd/LX_SKYSKYSK_006_lxpta6.part3.rar/file",
-      "https://www.mediafire.com/file/wz0jr3j9b6lxqno/LX_SKYSKYSK_006_lxpta6.part4.rar/file",
-      "https://www.mediafire.com/file/0asbdd2ocyf2is6/LX_SKYSKYSK_006_lxpta6.part5.rar/file",
-      "https://www.mediafire.com/file/4ffequfp7nqa71i/LX_SKYSKYSK_006_lxpta6.part6.rar/file",
-      "https://www.mediafire.com/file/vutyvxa6wvra2pj/BlaLX_SKYSKYSK_006_lxpta6.part7.rar/file"
+      "https://www.mediafire.com/file/uoeobxp0rkxc5jh/LX_SKY2156UE_001.rar/file",
+      "https://www.mediafire.com/file/lpt3hqi6lr2eo1b/BlaLX_SKY2156UE_002.rar/file",
+      "https://www.mediafire.com/file/y951m3wp00iun8p/LX_SKY2156UE_003.rar/file",
+      "https://www.mediafire.com/file/cn5qbiax0ir508l/LX_SKY2156UE_004.rar/file",
+      "https://www.mediafire.com/file/8sgxcd9fae4xnew/LX_SKY2156UE_005.rar/file",
+      "https://www.mediafire.com/file/czydqzwcbs04yys/LX_SKY2156UE_006_lxpta6.part1.rar/file",
+      "https://www.mediafire.com/file/wzfzhk4bdvevlij/LX_SKY2156UE_006_lxpta6.part2.rar/file",
+      "https://www.mediafire.com/file/maohsvhntt3alyi/LX_SKY2156UE_006_lxpta6.part3.rar/file",
+      "https://www.mediafire.com/file/63ag969b1ynsd61/LX_SKY2156UE_006_lxpta6.part4.rar/file",
+      "https://www.mediafire.com/file/ov0kvd9xc3q4jxi/LX_SKY2156UE_006_lxpta6.part5.rar/file",
+      "https://www.mediafire.com/file/3e5pi4ro1wxpyws/LX_SKY2156UE_006_lxpta6.part6.rar/file",
+      "https://www.mediafire.com/file/q0o5aqcs29ug3nz/BlaLX_SKY2156UE_006_lxpta6.part7.rar/file"
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 96105763460
+    "gameSizeBytes": 98366785396
   },
   {
     "name": "Split Fiction",
