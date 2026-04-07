@@ -265,8 +265,8 @@
     "gameSizeBytes": 47725397622
   },
   {
-    "name": "[OUTDATED] Marvel's Spider-Man Remastered",
-    "version": "2.1012.0.0",
+    "name": "Marvel's Spider-Man Remastered",
+    "version": "3.618",
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31184640-b024-47d1-b392-50174b836348/dfl2mdd-d3b9c3e4-fdb1-4d60-b18c-2d3662ec7269.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8zMTE4NDY0MC1iMDI0LTQ3ZDEtYjM5Mi01MDE3NGI4MzYzNDgvZGZsMm1kZC1kM2I5YzNlNC1mZGIxLTRkNjAtYjE4Yy0yZDM2NjJlYzcyNjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YhDPhYOiMnyI1ibqDk3-fM8KSkm_o8h3gFM3B2Xow1M",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1763569047",
@@ -274,19 +274,20 @@
     "dependentParts": "nao",
     "downloadUrl": null,
     "partLinks": [
-      "https://www.mediafire.com/file/eoma5t4vjc9du59/LX_T314S4MN_001.rar/file",
-      "https://www.mediafire.com/file/iw0kv8bwvikhoi0/LX_T314S4MN_002.rar/file",
-      "https://www.mediafire.com/file/h0qdeeuo8vyg2v9/LX_T314S4MN_003.rar/file",
-      "https://www.mediafire.com/file/g9iks2461yyt60f/LX_T314S4MN_004.rar/file",
-      "https://www.mediafire.com/file/25fzmykksvdkk98/LX_T314S4MN_005.rar/file",
-      "https://www.mediafire.com/file/i0qyyp3y1t3kdlc/LX_T314S4MN_006.rar/file",
-      "https://www.mediafire.com/file/mw01c1tmd6otrqh/LX_T314S4MN_007.rar/file",
-      "https://www.mediafire.com/file/3rsymaapof26bza/LX_T314S4MN_008.rar/file",
-      "https://www.mediafire.com/file/tjbz772rfontbs5/LX_T314S4MN_009.rar/file"
+      "https://www.mediafire.com/file/cbu2urogtqjckhf/LX_SPMNRMFIT_001.rar/file",
+      "https://www.mediafire.com/file/h7u1tmcqmfyi7wj/LX_SPMNRMFIT_002.rar/file",
+      "https://www.mediafire.com/file/9id2y3t0fxcfid9/LX_SPMNRMFIT_003.rar/file",
+      "https://www.mediafire.com/file/6rze22ldefundt8/LX_SPMNRMFIT_004.rar/file",
+      "https://www.mediafire.com/file/2dndymtnu7uefnm/LX_SPMNRMFIT_005.rar/file",
+      "https://www.mediafire.com/file/f4mok2jd5au5ukl/LX_SPMNRMFIT_006.rar/file",
+      "https://www.mediafire.com/file/fo5iwhknm9ixpxv/LX_SPMNRMFIT_007.rar/file",
+      "https://www.mediafire.com/file/9ubmklbkczyai0m/LX_SPMNRMFIT_008.rar/file",
+      "https://www.mediafire.com/file/dofr9xsji9kq7lr/LX_SPMNRMFIT_009.rar/file",
+      "https://www.mediafire.com/file/1y7wz5unvf701vr/LX_SPMNRMFIT_010.rar/file"
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 70820464614
+    "gameSizeBytes": 84856773948
   },
   {
     "name": "Marvel's Spider-Man 2",
