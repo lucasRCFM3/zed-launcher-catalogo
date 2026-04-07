@@ -391,7 +391,7 @@
     ],
     "saveGames": null,
     "executablePath": "Hitman 3.exe",
-    "gameSizeBytes": 85416343976
+    "gameSizeBytes": null
   },
   {
     "name": "Horizon Zero Dawn Remastered",
@@ -413,30 +413,13 @@
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/677af80a-4f37-4a8c-8228-1dc57a31cf6f/dh3qkkn-f2b1cda9-d8ff-425e-98bc-77d4155abb0a.png/v1/fill/w_500,h_500/horizon_forbidden_west___desktop_icon_by_jolu42_dh3qkkn-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6Ii9mLzY3N2FmODBhLTRmMzctNGE4Yy04MjI4LTFkYzU3YTMxY2Y2Zi9kaDNxa2tuLWYyYjFjZGE5LWQ4ZmYtNDI1ZS05OGJjLTc3ZDQxNTVhYmIwYS5wbmciLCJ3aWR0aCI6Ijw9NTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.F183tIrgBtEeyZIhnP37-2F_jHrdD5DKYKLiOnk9ddA",
     "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2420110/header.jpg?t=1763576690",
-    "isMultipart": true,
+    "isMultipart": false,
     "dependentParts": "nao",
-    "downloadUrl": null,
-    "partLinks": [
-      "https://www.mediafire.com/file/hwg40hsrdterdoy/LX_FRB11D3N_001.rar/file",
-      "https://www.mediafire.com/file/alczum53ghm49v7/LX_FRB11D3N_002.rar/file",
-      "https://www.mediafire.com/file/lyrvfnlyli3t4d5/LX_FRB11D3N_003.rar/file",
-      "https://www.mediafire.com/file/upj9kv77guomsog/LX_FRB11D3N_004.rar/file",
-      "https://www.mediafire.com/file/419vk9c6474bnhv/LX_FRB11D3N_005.rar/file",
-      "https://www.mediafire.com/file/l3f28hu59eqqgdb/LX_FRB11D3N_006.rar/file",
-      "https://www.mediafire.com/file/iw55u9gn4rxzqqv/LX_FRB11D3N_007.rar/file",
-      "https://www.mediafire.com/file/kqgl0uynpg7v1fu/LX_FRB11D3N_008.rar/file",
-      "https://www.mediafire.com/file/f6x4vo8vrlk9cre/LX_FRB11D3N_009.rar/file",
-      "https://www.mediafire.com/file/eo5f0cc5r6ltor1/blaLX_FRB11D3N_010.rar/file",
-      "https://www.mediafire.com/file/09dkbmsy10kfmof/LX_FRB11D3N_011.rar/file",
-      "https://www.mediafire.com/file/2061gt8fvuw7bmu/LX_FRB11D3N_012.rar/file",
-      "https://www.mediafire.com/file/2qbwpsjbcedyeah/LX_FRB11D3N_013.rar/file",
-      "https://www.mediafire.com/file/hzevzc12rij3dzv/LX_FRB11D3N_014.rar/file",
-      "https://www.mediafire.com/file/wrn0fmgc4cuks9h/LX_FRB11D3N_015.rar/file",
-      "https://www.mediafire.com/file/0x4csawbg004hif/blaLX_FRB11D3N_016.rar/file"
-    ],
+    "downloadUrl": "",
+    "partLinks": null,
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 134086111517
+    "gameSizeBytes": null
   },
   {
     "name": "Assassin's Creed Odyssey",
@@ -444,29 +427,13 @@
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a98cff5d-a612-49d8-a0db-175994384b20/dcog1rp-163af794-2d25-44f9-a6f0-85ca6da33535.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9hOThjZmY1ZC1hNjEyLTQ5ZDgtYTBkYi0xNzU5OTQzODRiMjAvZGNvZzFycC0xNjNhZjc5NC0yZDI1LTQ0ZjktYTZmMC04NWNhNmRhMzM1MzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lRcB7_53jVQOTa3wbY-C3W6HamQddSjCL-OmXosStos",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/header.jpg?t=1758656673",
-    "isMultipart": true,
+    "isMultipart": false,
     "dependentParts": "ambos",
-    "downloadUrl": null,
-    "partLinks": [
-      "https://www.mediafire.com/file/rmwkg9one6qza3h/LX_ODYDY1804_001.rar/file",
-      "https://www.mediafire.com/file/yw5mxe56c4lwqud/LX_ODYDY1804_002.rar/file",
-      "https://www.mediafire.com/file/l66y53mds6i8hxf/LX_ODYDY1804_003.rar/file",
-      "https://www.mediafire.com/file/3l35srn8s5fjvag/LX_ODYDY1804_004.rar/file",
-      "https://www.mediafire.com/file/29c46n0w7qgs07x/LX_ODYDY1804_005.rar/file",
-      "https://www.mediafire.com/file/uz3dsqzh7ficjx1/LX_ODYDY1804_006.rar/file",
-      "https://www.mediafire.com/file/bcun84ipguhqb86/LX_ODYDY1804_007.rar/file",
-      "https://www.mediafire.com/file/ut6wswczv2u92c4/LX_ODYDY1804_008.rar/file",
-      "https://www.mediafire.com/file/mwwsinmyl0to4n8/LX_ODYDY1804_009.rar/file",
-      "https://www.mediafire.com/file/vu10vemk2jktdqy/LX_ODYDY1804_010.rar/file",
-      "https://www.mediafire.com/file/6kngrib12hoket7/LX_ODYDY1804_011_lxpta2.part1.rar/file",
-      "https://www.mediafire.com/file/0dtzcr68a2kfq8s/LX_ODYDY1804_011_lxpta2.part2.rar/file",
-      "https://www.mediafire.com/file/co0bgq1nfrlx03x/LX_ODYDY1804_012_lxptb3.part1.rar/file",
-      "https://www.mediafire.com/file/sl56ky3v8e1ykbp/LX_ODYDY1804_012_lxptb3.part2.rar/file",
-      "https://www.mediafire.com/file/o1r63www5x67ap7/LX_ODYDY1804_012_lxptb3.part3.rar/file"
-    ],
+    "downloadUrl": "",
+    "partLinks": null,
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 113724980434
+    "gameSizeBytes": null
   },
   {
     "name": "Assassin's Creed Origins Gold Edition",
@@ -477,21 +444,10 @@
     "isMultipart": true,
     "dependentParts": "ambos",
     "downloadUrl": null,
-    "partLinks": [
-      "https://www.mediafire.com/file/072gl3randcqof8/blaLX_OGIGIGU_001.rar/file",
-      "https://www.mediafire.com/file/xd26tsjbd3sy43o/LX_OGIGIGU_002.rar/file",
-      "https://www.mediafire.com/file/yydza1cz615lxr0/LX_OGIGIGU_003.rar/file",
-      "https://www.mediafire.com/file/5kq4cd1ei4mkwvw/LX_OGIGIGU_004.rar/file",
-      "https://www.mediafire.com/file/ub97109mykvvjqp/LX_OGIGIGU_005.rar/file",
-      "https://www.mediafire.com/file/k4yk8ax132pm3iu/LX_OGIGIGU_006.rar/file",
-      "https://www.mediafire.com/file/gsfqzrbzqw1v016/LX_OGIGIGU_007_lxpta2.part1.rar/file",
-      "https://www.mediafire.com/file/osnxts6t49fxm2u/blaLX_OGIGIGU_007_lxpta2.part2.rar/file",
-      "https://www.mediafire.com/file/170j45k3efmc2yw/LX_OGIGIGU_008_lxptb2.part1.rar/file",
-      "https://www.mediafire.com/file/x820lgxf77e9n2z/LX_OGIGIGU_008_lxptb2.part2.rar/file"
-    ],
+    "partLinks": null,
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 74270124768
+    "gameSizeBytes": null
   },
   {
     "name": "Assassin's Creed Mirage Master Assassin Edition",
@@ -516,7 +472,7 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 69854231179
+    "gameSizeBytes": null
   },
   {
     "name": "Assassin's Creed Valhalla",
@@ -552,7 +508,7 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 153978359335
+    "gameSizeBytes": null
   },
   {
     "name": "Assassin's Creed I",
@@ -560,13 +516,13 @@
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/da3boqn-b579891b-64ec-4829-87fd-30ec09c5105f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGEzYm9xbi1iNTc5ODkxYi02NGVjLTQ4MjktODdmZC0zMGVjMDljNTEwNWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.URE471rnSBdMH0a_utBXnojeajikNPDu-92SUE2iH6o",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/header.jpg?t=1602600542",
-    "isMultipart": false,
+    "isMultipart": true,
     "dependentParts": "nao",
-    "downloadUrl": "https://www.mediafire.com/file/pboe18y86df77lb/LX_CREDO.rar/file",
+    "downloadUrl": null,
     "partLinks": null,
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 7153091406
+    "gameSizeBytes": null
   },
   {
     "name": "Assassin's Creed II",
@@ -574,13 +530,13 @@
     "date": "",
     "icon": "https://www.iconarchive.com/download/i1366/3xhumed/mega-games-pack-33/Assassin-s-Creed-II-4.ico",
     "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/33230/header.jpg?t=1682004272",
-    "isMultipart": false,
+    "isMultipart": true,
     "dependentParts": "nao",
-    "downloadUrl": "https://www.mediafire.com/file/giju9248jvb9y2r/LX_CREDOII.rar/file",
+    "downloadUrl": null,
     "partLinks": null,
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 7228196270
+    "gameSizeBytes": null
   },
   {
     "name": "Assassin's Creed Brotherhood",
@@ -588,13 +544,13 @@
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/da3bp7j-6ca1d20c-559b-4986-8bef-ca90d0d2733d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGEzYnA3ai02Y2ExZDIwYy01NTliLTQ5ODYtOGJlZi1jYTkwZDBkMjczM2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yBNE0WeTgSLYtrWj5pKSQUQj2DoL062hnvVXwDnhMsg",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48190/header.jpg?t=1681861086",
-    "isMultipart": false,
+    "isMultipart": true,
     "dependentParts": "nao",
-    "downloadUrl": "https://www.mediafire.com/file/e8f9y75neot0253/LX_BROTHER.rar/file",
+    "downloadUrl": null,
     "partLinks": null,
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 9602933758
+    "gameSizeBytes": null
   },
   {
     "name": "Assassin's Creed Revelations",
@@ -602,13 +558,13 @@
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/da3bpfq-f77cc98e-af08-4d2e-b9ab-215188dc766e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGEzYnBmcS1mNzdjYzk4ZS1hZjA4LTRkMmUtYjlhYi0yMTUxODhkYzc2NmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1X8PHZYhnkgYpVWjz6pxC0IQAtKJUVInaZcsDrjhUFo",
     "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201870/header.jpg?t=1739176298",
-    "isMultipart": false,
+    "isMultipart": true,
     "dependentParts": "nao",
-    "downloadUrl": "https://www.mediafire.com/file/jbqn5v1lhnok806/LX_REVELACOES.rar/file",
+    "downloadUrl": null,
     "partLinks": null,
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 7090194590
+    "gameSizeBytes": null
   },
   {
     "name": "Assassin's Creed IV: Black Flag",
@@ -626,7 +582,7 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 19595697818
+    "gameSizeBytes": null
   },
   {
     "name": "Assassin's Creed Rogue",
@@ -643,7 +599,7 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 12048133884
+    "gameSizeBytes": null
   },
   {
     "name": "Assassin's Creed III",
