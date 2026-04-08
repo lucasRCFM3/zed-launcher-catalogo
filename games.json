@@ -490,6 +490,31 @@
     "gameSizeBytes": 122225833038
   },
   {
+    "name": "Nioh 2: The Complete Edition",
+    "version": "1.25",
+    "date": "",
+    "icon": "https://cdn2.steamgriddb.com/icon_thumb/f8c28d67e9d2c4d82c8d25f4c4678104.png",
+    "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1325200/capsule_616x353.jpg?t=1775540023",
+    "isMultipart": true,
+    "dependentParts": "ambos",
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/zdtdt0bzswe81sl/LX_NILAH2FIT_001.rar/file",
+      "https://www.mediafire.com/file/5ma5zsr9asu9yqd/LX_NILAH2FIT_002.rar/file",
+      "https://www.mediafire.com/file/9kwjyppzky4dek5/LX_NILAH2FIT_003.rar/file",
+      "https://www.mediafire.com/file/p1jzin1be760za4/LX_NILAH2FIT_004_lxpta3.part1.rar/file",
+      "https://www.mediafire.com/file/tj77bcjs7mapiso/LX_NILAH2FIT_004_lxpta3.part2.rar/file",
+      "https://www.mediafire.com/file/ffu296b4xwamc7z/LX_NILAH2FIT_005_lxptb4.part1.rar/file",
+      "https://www.mediafire.com/file/7q3niffe1q7r6wt/LX_NILAH2FIT_005_lxptb4.part2.rar/file",
+      "https://www.mediafire.com/file/ntrchrrl9chj7v8/LX_NILAH2FIT_005_lxptb4.part3.rar/file",
+      "https://www.mediafire.com/file/cb8ptivj1yt4755/BlaLX_NILAH2FIT_005_lxptb4.part4.rar/file",
+      "https://www.mediafire.com/file/sbj96j0kyyuuu1l/BlaLX_NILAH2FIT_004_lxpta3.part3.rar/file"
+    ],
+    "saveGames": null,
+    "executablePath": "",
+    "gameSizeBytes": 82031645574
+  },
+  {
     "name": "Assassin's Creed Odyssey",
     "version": "1.5.3",
     "date": "",
