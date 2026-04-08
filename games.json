@@ -400,13 +400,29 @@
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/677af80a-4f37-4a8c-8228-1dc57a31cf6f/dge0ald-83bd8657-99c1-4b49-b121-8ae8613d6c3c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82NzdhZjgwYS00ZjM3LTRhOGMtODIyOC0xZGM1N2EzMWNmNmYvZGdlMGFsZC04M2JkODY1Ny05OWMxLTRiNDktYjEyMS04YWU4NjEzZDZjM2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EaSdmvb3YjIHmu6BlZZr1AvwXvEJJZxzAGDGovwaPJM",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561580/header.jpg?t=1750952943",
-    "isMultipart": false,
+    "isMultipart": true,
     "dependentParts": "nao",
-    "downloadUrl": "",
-    "partLinks": null,
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/2fow5egij8nlcux/LX_000DAWNFIT_001.rar/file",
+      "https://www.mediafire.com/file/muzl7ulxwjyue7z/LX_000DAWNFIT_002.rar/file",
+      "https://www.mediafire.com/file/lcblmdefsk103ko/LX_000DAWNFIT_003.rar/file",
+      "https://www.mediafire.com/file/zio6hex50g780vr/LX_000DAWNFIT_004.rar/file",
+      "https://www.mediafire.com/file/lcei6i4vgahg78a/LX_000DAWNFIT_005.rar/file",
+      "https://www.mediafire.com/file/kyy34jy7xujrqm8/LX_000DAWNFIT_006.rar/file",
+      "https://www.mediafire.com/file/ko93e73qoo9n5id/LX_000DAWNFIT_007.rar/file",
+      "https://www.mediafire.com/file/a93mp3ah1ss9fl4/LX_000DAWNFIT_008.rar/file",
+      "https://www.mediafire.com/file/jj52wfpa17bv2wl/LX_000DAWNFIT_009.rar/file",
+      "https://www.mediafire.com/file/fmqxd36p3165h6h/LX_000DAWNFIT_010.rar/file",
+      "https://www.mediafire.com/file/hg9tx1gnovz4zi5/LX_000DAWNFIT_011.rar/file",
+      "https://www.mediafire.com/file/3s5k05lif96zwh4/LX_000DAWNFIT_012.rar/file",
+      "https://www.mediafire.com/file/074tjmd1ag1u1bp/LX_000DAWNFIT_013.rar/file",
+      "https://www.mediafire.com/file/o9qphbajlbmp7ig/LX_000DAWNFIT_014.rar/file",
+      "https://www.mediafire.com/file/1gbfzj08qirshds/LX_000DAWNFIT_015.rar/file"
+    ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": 129470255282
   },
   {
     "name": "Horizon Forbidden West Complete Edition",
