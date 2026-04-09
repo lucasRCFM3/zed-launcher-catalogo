@@ -520,13 +520,24 @@
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dbpaq04-6f25cc55-40be-4b8e-9c5b-94f8483e9905.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGJwYXEwNC02ZjI1Y2M1NS00MGJlLTRiOGUtOWM1Yi05NGY4NDgzZTk5MDUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KdaBKDog1gVBh2wZ3GAJRtP935p4l-PIiAJm_-11s14",
     "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/485510/capsule_616x353.jpg?t=1775540073",
-    "isMultipart": false,
+    "isMultipart": true,
     "dependentParts": "ambos",
-    "downloadUrl": "",
-    "partLinks": null,
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/31chjonmh8xncuf/BlaLX_NILAHFIT_001.rar/file",
+      "https://www.mediafire.com/file/zyzsmws5obxyd0q/LX_NILAHFIT_002.rar/file",
+      "https://www.mediafire.com/file/cfow84erdr8lcdk/LX_NILAHFIT_003.rar/file",
+      "https://www.mediafire.com/file/87y1nkyh4ddw6wy/LX_NILAHFIT_004_lxpta3.part1.rar/file",
+      "https://www.mediafire.com/file/7ehlz2moy5wpco9/LX_NILAHFIT_004_lxpta3.part2.rar/file",
+      "https://www.mediafire.com/file/d54dmjt4362o6x0/LX_NILAHFIT_005_lxptb4.part1.rar/file",
+      "https://www.mediafire.com/file/rkdeb561kf3vyiq/LX_NILAHFIT_005_lxptb4.part2.rar/file",
+      "https://www.mediafire.com/file/r77ksoypk1ozdi6/LX_NILAHFIT_005_lxptb4.part3.rar/file",
+      "https://www.mediafire.com/file/984njxlbpd6n87r/LX_NILAHFIT_005_lxptb4.part4.rar/file",
+      "https://www.mediafire.com/file/vxh9qyhqy5a4qnd/BlaLX_NILAHFIT_004_lxpta3.part3.rar/file"
+    ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": 79326472470
   },
   {
     "name": "Elden Ring Deluxe Edition (+ Shadow of the Erdtree)",
