@@ -593,14 +593,24 @@
   },
   {
     "name": "Ghost of Tsushima Directors Cut",
-    "version": "",
+    "version": "1053.8.1212.1408",
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a98cff5d-a612-49d8-a0db-175994384b20/dhhodwy-1abcbdf5-290b-4552-98e7-83c78d847db2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9hOThjZmY1ZC1hNjEyLTQ5ZDgtYTBkYi0xNzU5OTQzODRiMjAvZGhob2R3eS0xYWJjYmRmNS0yOTBiLTQ1NTItOThlNy04M2M3OGQ4NDdkYjIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wnpPyxxMY0kaTce5OjYZiwicgS97YvHwHzcSSy_GVaU",
     "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_616x353.jpg?t=1763409398",
-    "isMultipart": false,
+    "isMultipart": true,
     "dependentParts": "nao",
-    "downloadUrl": "",
-    "partLinks": null,
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/nw7xilv514mahqo/BlaLX_GHOSTFIT_001.rar/file",
+      "https://www.mediafire.com/file/dk87m3g1vb8s35t/LX_GHOSTFIT_002.rar/file",
+      "https://www.mediafire.com/file/yptdod3734rohzj/LX_GHOSTFIT_003.rar/file",
+      "https://www.mediafire.com/file/u0oe1a017kdtn13/LX_GHOSTFIT_004.rar/file",
+      "https://www.mediafire.com/file/5vsqjc6rgxgfuau/LX_GHOSTFIT_005.rar/file",
+      "https://www.mediafire.com/file/4o6njt9fquadflw/LX_GHOSTFIT_006.rar/file",
+      "https://www.mediafire.com/file/84orr1plt0akypl/LX_GHOSTFIT_007.rar/file",
+      "https://www.mediafire.com/file/i6lqz1epsmpb77e/LX_GHOSTFIT_008.rar/file",
+      "https://www.mediafire.com/file/a2zyv7bz2fewrij/BlaLX_GHOSTFIT_009.rar/file"
+    ],
     "saveGames": null,
     "executablePath": "",
     "gameSizeBytes": null
