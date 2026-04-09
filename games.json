@@ -515,6 +515,20 @@
     "gameSizeBytes": 82031645574
   },
   {
+    "name": "Nioh: Complete Edition",
+    "version": "1.21",
+    "date": "",
+    "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dbpaq04-6f25cc55-40be-4b8e-9c5b-94f8483e9905.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGJwYXEwNC02ZjI1Y2M1NS00MGJlLTRiOGUtOWM1Yi05NGY4NDgzZTk5MDUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KdaBKDog1gVBh2wZ3GAJRtP935p4l-PIiAJm_-11s14",
+    "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/485510/capsule_616x353.jpg?t=1775540073",
+    "isMultipart": false,
+    "dependentParts": "ambos",
+    "downloadUrl": "",
+    "partLinks": null,
+    "saveGames": null,
+    "executablePath": "",
+    "gameSizeBytes": null
+  },
+  {
     "name": "Elden Ring Deluxe Edition (+ Shadow of the Erdtree)",
     "version": "1.16.1",
     "date": "",
@@ -539,6 +553,20 @@
     "saveGames": null,
     "executablePath": "",
     "gameSizeBytes": 74763866596
+  },
+  {
+    "name": "Elden Ring Nightreign Deluxe Edition",
+    "version": "1.03.2",
+    "date": "",
+    "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/djvuide-ebff75b2-3823-4bfa-9a1f-c3ffab5378a2.png/v1/fill/w_512,h_512/elden_ring___nightreign_icon_by_andonovmarko_djvuide-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OS9kanZ1aWRlLWViZmY3NWIyLTM4MjMtNGJmYS05YTFmLWMzZmZhYjUzNzhhMi5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.z5t9EKAWBLIur03r5f_7mxI8hv8RW4Rc3w_j-1pkRQY",
+    "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1773099036",
+    "isMultipart": false,
+    "dependentParts": "nao",
+    "downloadUrl": "",
+    "partLinks": null,
+    "saveGames": null,
+    "executablePath": "",
+    "gameSizeBytes": null
   },
   {
     "name": "Sekiro: Shadows Die Twice",
@@ -772,20 +800,6 @@
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/da3btz0-6f947a5c-6568-4e06-ae1d-cd55e5fc0604.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGEzYnR6MC02Zjk0N2E1Yy02NTY4LTRlMDYtYWUxZC1jZDU1ZTVmYzA2MDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GI8F8b2PNGrM1c3iv-cywL6cEKL75CwLneGkioFInyA",
     "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368500/header.jpg?t=1766772262\",",
-    "isMultipart": false,
-    "dependentParts": "nao",
-    "downloadUrl": "",
-    "partLinks": null,
-    "saveGames": null,
-    "executablePath": "",
-    "gameSizeBytes": null
-  },
-  {
-    "name": "Elden Ring Nightreign Deluxe Edition",
-    "version": "",
-    "date": "",
-    "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/djvuide-ebff75b2-3823-4bfa-9a1f-c3ffab5378a2.png/v1/fill/w_512,h_512/elden_ring___nightreign_icon_by_andonovmarko_djvuide-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OS9kanZ1aWRlLWViZmY3NWIyLTM4MjMtNGJmYS05YTFmLWMzZmZhYjUzNzhhMi5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.z5t9EKAWBLIur03r5f_7mxI8hv8RW4Rc3w_j-1pkRQY",
-    "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1773099036",
     "isMultipart": false,
     "dependentParts": "nao",
     "downloadUrl": "",
