@@ -628,17 +628,31 @@
   },
   {
     "name": "Hogwarts Legacy",
-    "version": "",
+    "version": "1121649",
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c54013f-525a-4ab0-80dd-d0c56b419f1c/dgmdxrk-cca182be-4474-43dd-96c8-1efa4f61d22d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85YzU0MDEzZi01MjVhLTRhYjAtODBkZC1kMGM1NmI0MTlmMWMvZGdtZHhyay1jY2ExODJiZS00NDc0LTQzZGQtOTZjOC0xZWZhNGY2MWQyMmQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rw46HRsVWrZI3-xh213j78GT2HZs91HEy1gM6OXqr44",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/22dd5a52e39a1952e77da2bd4ee49cc2e5e1a972/capsule_616x353.jpg?t=1773932856",
-    "isMultipart": false,
-    "dependentParts": "nao",
-    "downloadUrl": "",
-    "partLinks": null,
+    "isMultipart": true,
+    "dependentParts": "ambos",
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/z99dn91enuidmz9/LX_HOGFIT_001.rar/file",
+      "https://www.mediafire.com/file/m89rtdq98yqr91w/LX_HOGFIT_002.rar/file",
+      "https://www.mediafire.com/file/9r3gs4dqlgkdktt/LX_HOGFIT_003.rar/file",
+      "https://www.mediafire.com/file/keskrqtk0jg3koc/LX_HOGFIT_004.rar/file",
+      "https://www.mediafire.com/file/36ho0xvm5wllo2s/BlaLX_HOGFIT_005.rar/file",
+      "https://www.mediafire.com/file/e7j0i3kgcv4khlf/LX_HOGFIT_006_lxpta2.part1.rar/file",
+      "https://www.mediafire.com/file/3qrhcuwzoggwzfx/BlaLX_HOGFIT_006_lxpta2.part2.rar/file",
+      "https://www.mediafire.com/file/n1dbf7lwy678wpp/LX_HOGFIT_007_lxptb2.part1.rar/file",
+      "https://www.mediafire.com/file/44cdva5755okf6c/BlaLX_HOGFIT_007_lxptb2.part2.rar/file",
+      "https://www.mediafire.com/file/ttazwqoqx5xsqhl/LX_HOGFIT_008_lxptc2.part1.rar/file",
+      "https://www.mediafire.com/file/x4qyikuve3tteh7/LX_HOGFIT_008_lxptc2.part2.rar/file",
+      "https://www.mediafire.com/file/8ccrqsabwoz2cb3/LX_HOGFIT_009_lxptd2.part1.rar/file",
+      "https://www.mediafire.com/file/8b13ls6v8x0yrwb/LX_HOGFIT_009_lxptd2.part2.rar/file"
+    ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": 81460462864
   },
   {
     "name": "Lies of P Deluxe Edition",
