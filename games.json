@@ -541,6 +541,24 @@
     "gameSizeBytes": 74763866596
   },
   {
+    "name": "Sekiro: Shadows Die Twice",
+    "version": "1.06",
+    "date": "",
+    "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/677af80a-4f37-4a8c-8228-1dc57a31cf6f/dgjo3sj-eb91fb15-eaef-4557-8d14-23453505a6a5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82NzdhZjgwYS00ZjM3LTRhOGMtODIyOC0xZGM1N2EzMWNmNmYvZGdqbzNzai1lYjkxZmIxNS1lYWVmLTQ1NTctOGQxNC0yMzQ1MzUwNWE2YTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.h1OTHEulQ-gsIcQumI4D1-OUrKsyKtPl1inm41XqbaQ",
+    "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
+    "isMultipart": true,
+    "dependentParts": "nao",
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/wuh9973tjewsks7/BlaLX_SEKIROFIT_001.rar/file",
+      "https://www.mediafire.com/file/0h6v4cctavu2sup/LX_SEKIROFIT_002.rar/file",
+      "https://www.mediafire.com/file/wbyjvwpi210xag4/BlaLX_SEKIROFIT_003.rar/file"
+    ],
+    "saveGames": null,
+    "executablePath": "",
+    "gameSizeBytes": null
+  },
+  {
     "name": "Assassin's Creed Odyssey",
     "version": "1.5.3",
     "date": "",
@@ -768,20 +786,6 @@
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/djvuide-ebff75b2-3823-4bfa-9a1f-c3ffab5378a2.png/v1/fill/w_512,h_512/elden_ring___nightreign_icon_by_andonovmarko_djvuide-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OS9kanZ1aWRlLWViZmY3NWIyLTM4MjMtNGJmYS05YTFmLWMzZmZhYjUzNzhhMi5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.z5t9EKAWBLIur03r5f_7mxI8hv8RW4Rc3w_j-1pkRQY",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1773099036",
-    "isMultipart": false,
-    "dependentParts": "nao",
-    "downloadUrl": "",
-    "partLinks": null,
-    "saveGames": null,
-    "executablePath": "",
-    "gameSizeBytes": null
-  },
-  {
-    "name": "Sekiro: Shadows Die Twice",
-    "version": "",
-    "date": "",
-    "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/677af80a-4f37-4a8c-8228-1dc57a31cf6f/dgjo3sj-eb91fb15-eaef-4557-8d14-23453505a6a5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82NzdhZjgwYS00ZjM3LTRhOGMtODIyOC0xZGM1N2EzMWNmNmYvZGdqbzNzai1lYjkxZmIxNS1lYWVmLTQ1NTctOGQxNC0yMzQ1MzUwNWE2YTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.h1OTHEulQ-gsIcQumI4D1-OUrKsyKtPl1inm41XqbaQ",
-    "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
     "isMultipart": false,
     "dependentParts": "nao",
     "downloadUrl": "",
