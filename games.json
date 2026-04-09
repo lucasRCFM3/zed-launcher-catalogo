@@ -515,6 +515,32 @@
     "gameSizeBytes": 82031645574
   },
   {
+    "name": "Elden Ring Deluxe Edition (+ Shadow of the Erdtree)",
+    "version": "1.16.1",
+    "date": "",
+    "icon": "https://cdn2.steamgriddb.com/icon/1a551bade995c83bfbab1649151b262c/32/256x256.png",
+    "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778580/capsule_616x353.jpg?t=1763403045",
+    "isMultipart": true,
+    "dependentParts": "ambos",
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/5wqeii9gcqalw5u/LX_RINGFIT_001.rar/file",
+      "https://www.mediafire.com/file/0ytlnvdnfysoxwa/BlaLX_RINGFIT_002.rar/file",
+      "https://www.mediafire.com/file/qrw95v3pzrfbj87/LX_RINGFIT_003_lxpta2.part1.rar/file",
+      "https://www.mediafire.com/file/h4weqf88gamahcq/BlaLX_RINGFIT_003_lxpta2.part2.rar/file",
+      "https://www.mediafire.com/file/opcu8m7xrevar48/LX_RINGFIT_004_lxptb2.part1.rar/file",
+      "https://www.mediafire.com/file/k6m8ii4svkqrjdo/LX_RINGFIT_004_lxptb2.part2.rar/file",
+      "https://www.mediafire.com/file/2mumkj1lq6bdqg5/LX_RINGFIT_005_lxptc3.part1.rar/file",
+      "https://www.mediafire.com/file/b4r3imdnxpeez24/LX_RINGFIT_005_lxptc3.part2.rar/file",
+      "https://www.mediafire.com/file/u6xtx53yokh7y8x/BlaLX_RINGFIT_005_lxptc3.part3.rar/file",
+      "https://www.mediafire.com/file/ukez3e598yhqmc4/LX_RINGFIT_006_lxptd2.part1.rar/file",
+      "https://www.mediafire.com/file/q5q5mai8nt4zq9i/LX_RINGFIT_006_lxptd2.part2.rar/file"
+    ],
+    "saveGames": null,
+    "executablePath": "",
+    "gameSizeBytes": 74763866596
+  },
+  {
     "name": "Assassin's Creed Odyssey",
     "version": "1.5.3",
     "date": "",
@@ -728,20 +754,6 @@
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/da3btz0-6f947a5c-6568-4e06-ae1d-cd55e5fc0604.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGEzYnR6MC02Zjk0N2E1Yy02NTY4LTRlMDYtYWUxZC1jZDU1ZTVmYzA2MDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GI8F8b2PNGrM1c3iv-cywL6cEKL75CwLneGkioFInyA",
     "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368500/header.jpg?t=1766772262\",",
-    "isMultipart": false,
-    "dependentParts": "nao",
-    "downloadUrl": "",
-    "partLinks": null,
-    "saveGames": null,
-    "executablePath": "",
-    "gameSizeBytes": null
-  },
-  {
-    "name": "Elden Ring Deluxe Edition (+ Shadow of the Erdtree)",
-    "version": "",
-    "date": "",
-    "icon": "https://cdn2.steamgriddb.com/icon/1a551bade995c83bfbab1649151b262c/32/256x256.png",
-    "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778580/capsule_616x353.jpg?t=1763403045",
     "isMultipart": false,
     "dependentParts": "nao",
     "downloadUrl": "",
