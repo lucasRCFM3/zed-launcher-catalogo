@@ -660,13 +660,22 @@
     "date": "",
     "icon": "https://images.g2a.com/323x433/1x1x1/lies-of-p-overture-p10000511338/8b7b56656ef84c2584f2871e",
     "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/bundles/54629/f7ap3fnlt0nytsea/05a8694f4970632f66fbd9612ce7ea1f9b60b7f0/header.jpg?t=1749247091",
-    "isMultipart": false,
+    "isMultipart": true,
     "dependentParts": "nao",
-    "downloadUrl": "",
-    "partLinks": null,
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/7cwu05zxx48mowb/LX_LIESFIT_001.rar/file",
+      "https://www.mediafire.com/file/qfxq1dmtsx5t0xc/LX_LIESFIT_002.rar/file",
+      "https://www.mediafire.com/file/3p1xooigzdttb70/LX_LIESFIT_003.rar/file",
+      "https://www.mediafire.com/file/9ur7wzk25wiwo9k/BlaLX_LIESFIT_004.rar/file",
+      "https://www.mediafire.com/file/rtghg3zbkxkr0nf/LX_LIESFIT_005.rar/file",
+      "https://www.mediafire.com/file/k5b9wdjt6chhq0o/LX_LIESFIT_006.rar/file",
+      "https://www.mediafire.com/file/sytthrwqiw6ro8h/LX_LIESFIT_007.rar/file",
+      "https://www.mediafire.com/file/vvhf3c9eontq46k/BlaLX_LIESFIT_008.rar/file"
+    ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": 64029521600
   },
   {
     "name": "Avowed: Premium Edition",
@@ -674,13 +683,23 @@
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dj6b064-2c180bd3-ec35-43c4-b177-04f49bb15599.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGo2YjA2NC0yYzE4MGJkMy1lYzM1LTQzYzQtYjE3Ny0wNGY0OWJiMTU1OTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sXSOMWieNFJX-pURJAxcyjheLXNKLicfCxP4xYjy_ec",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/capsule_616x353.jpg?t=1771352530",
-    "isMultipart": false,
-    "dependentParts": "nao",
-    "downloadUrl": "",
-    "partLinks": null,
+    "isMultipart": true,
+    "dependentParts": "ambos",
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/qgdjl0obild49zs/LX_AVOWEDFIT_001.rar/file",
+      "https://www.mediafire.com/file/2y4yy09vxb8enw7/LX_AVOWEDFIT_002_lxpta8.part1.rar/file",
+      "https://www.mediafire.com/file/ka5te2hswfcrgbl/LX_AVOWEDFIT_002_lxpta8.part2.rar/file",
+      "https://www.mediafire.com/file/0s6sxhc4q68t11r/LX_AVOWEDFIT_002_lxpta8.part3.rar/file",
+      "https://www.mediafire.com/file/yzpw5to5vjopokh/LX_AVOWEDFIT_002_lxpta8.part4.rar/file",
+      "https://www.mediafire.com/file/x3e0fq4z9z4kedt/LX_AVOWEDFIT_002_lxpta8.part5.rar/file",
+      "https://www.mediafire.com/file/nx7ctzq73m62i9g/LX_AVOWEDFIT_002_lxpta8.part6.rar/file",
+      "https://www.mediafire.com/file/tvsmk34fl2bh37b/LX_AVOWEDFIT_002_lxpta8.part7.rar/file",
+      "https://www.mediafire.com/file/bu2znr7ji88pinv/LX_AVOWEDFIT_002_lxpta8.part8.rar/file"
+    ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": 75046957116
   },
   {
     "name": "SIFU Deluxe Edition",
@@ -689,7 +708,7 @@
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/146d81d3-58f4-45c2-957e-1dc554a4a869/deledgs-da8cfdb6-1636-4644-ab89-3e63c0e3e054.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xNDZkODFkMy01OGY0LTQ1YzItOTU3ZS0xZGM1NTRhNGE4NjkvZGVsZWRncy1kYThjZmRiNi0xNjM2LTQ2NDQtYWI4OS0zZTYzYzBlM2UwNTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Km0PVEBzA8krh9sECPq7tqewpY7EawCxRqDVILElPhM",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/30686/8l4vyob93e5uo702/header.jpg?t=1702996845",
     "isMultipart": true,
-    "dependentParts": "nao",
+    "dependentParts": "ambos",
     "downloadUrl": null,
     "partLinks": [
       "https://www.mediafire.com/file/ndr26ek3u7dgea6/BlaLX_SIFUFIT_001.rar/file",
