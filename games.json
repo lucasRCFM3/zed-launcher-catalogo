@@ -786,13 +786,22 @@
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/df07pu6-449ed3a5-196e-4e3d-a810-b34ddf130c78.png/v1/fill/w_512,h_512/god_of_war_icon_by_andonovmarko_df07pu6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OS9kZjA3cHU2LTQ0OWVkM2E1LTE5NmUtNGUzZC1hODEwLWIzNGRkZjEzMGM3OC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.eDc2fbRE3zr9gOAisMvn3CtOJdXAtftXqCxfKvbDn_o",
     "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/capsule_616x353.jpg?t=1763059412",
-    "isMultipart": false,
+    "isMultipart": true,
     "dependentParts": "nao",
-    "downloadUrl": "",
-    "partLinks": null,
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/lqwaioyc1jylly3/LX_GOWFIT_001.rar/file",
+      "https://www.mediafire.com/file/1l1xw2vxlppxod2/LX_GOWFIT_002.rar/file",
+      "https://www.mediafire.com/file/k94281kybj49ojw/LX_GOWFIT_003.rar/file",
+      "https://www.mediafire.com/file/vu21pvvop3yidl5/LX_GOWFIT_004.rar/file",
+      "https://www.mediafire.com/file/13yjnvmdnj0sse6/LX_GOWFIT_005.rar/file",
+      "https://www.mediafire.com/file/embkeaq1w27gu8y/LX_GOWFIT_006.rar/file",
+      "https://www.mediafire.com/file/yaxtfnf2v29nqov/LX_GOWFIT_007.rar/file",
+      "https://www.mediafire.com/file/8fb5oed9vir8t5a/LX_GOWFIT_008.rar/file"
+    ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": 69255338480
   },
   {
     "name": "God of War Ragnarok",
