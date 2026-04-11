@@ -321,7 +321,7 @@
       }
     ],
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": 61238584464
   },
   {
     "name": "Marvel's Spider-Man 2",
@@ -351,7 +351,16 @@
       "https://www.mediafire.com/file/17alii0d2ohz3ss/LX_SPM2FIT_016.rar/file",
       "https://www.mediafire.com/file/789cscwcxvycho7/LX_SPM2FIT_017.rar/file"
     ],
-    "saveGames": null,
+    "saveGames": [
+      {
+        "url": "",
+        "path": "%UserProfile%\\Documents\\Marvel's Spider-Man 2\\76561197960271872"
+      },
+      {
+        "url": "",
+        "path": "%UserProfile%\\Documents\\Marvel's Spider-Man 2\\Screenshots"
+      }
+    ],
     "executablePath": "",
     "gameSizeBytes": 147460349470
   },
