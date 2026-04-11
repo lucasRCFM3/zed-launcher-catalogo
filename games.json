@@ -688,13 +688,19 @@
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/146d81d3-58f4-45c2-957e-1dc554a4a869/deledgs-da8cfdb6-1636-4644-ab89-3e63c0e3e054.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xNDZkODFkMy01OGY0LTQ1YzItOTU3ZS0xZGM1NTRhNGE4NjkvZGVsZWRncy1kYThjZmRiNi0xNjM2LTQ2NDQtYWI4OS0zZTYzYzBlM2UwNTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Km0PVEBzA8krh9sECPq7tqewpY7EawCxRqDVILElPhM",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/30686/8l4vyob93e5uo702/header.jpg?t=1702996845",
-    "isMultipart": false,
+    "isMultipart": true,
     "dependentParts": "nao",
-    "downloadUrl": "",
-    "partLinks": null,
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/ndr26ek3u7dgea6/BlaLX_SIFUFIT_001.rar/file",
+      "https://www.mediafire.com/file/224dss7n7t4dx4x/LX_SIFUFIT_002_lxpta4.part1.rar/file",
+      "https://www.mediafire.com/file/5miz97fmfkha269/LX_SIFUFIT_002_lxpta4.part2.rar/file",
+      "https://www.mediafire.com/file/v4ushvbwxbt02w9/LX_SIFUFIT_002_lxpta4.part3.rar/file",
+      "https://www.mediafire.com/file/r2ivn9on08f1wdn/BlaLX_SIFUFIT_002_lxpta4.part4.rar/file"
+    ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": 32913032428
   },
   {
     "name": "Cyberpunk 2077",
