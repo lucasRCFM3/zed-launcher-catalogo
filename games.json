@@ -310,9 +310,18 @@
       "https://www.mediafire.com/file/bwc4ovdbhua8zi2/LX_SPMMFIT_007.rar/file",
       "https://www.mediafire.com/file/fk0nad8v18kisxk/BlaLX_SPMMFIT_008.rar/file"
     ],
-    "saveGames": null,
+    "saveGames": [
+      {
+        "url": "",
+        "path": "%UserProfile%\\Documents\\Marvel's Spider-Man Miles Morales\\76561198682240980"
+      },
+      {
+        "url": "",
+        "path": "%UserProfile%\\Documents\\Marvel's Spider-Man Miles Morales\\Screenshots"
+      }
+    ],
     "executablePath": "",
-    "gameSizeBytes": 61238584464
+    "gameSizeBytes": null
   },
   {
     "name": "Marvel's Spider-Man 2",
