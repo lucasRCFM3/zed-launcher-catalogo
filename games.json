@@ -1113,14 +1113,22 @@
   },
   {
     "name": "Assassin's Creed Unity",
-    "version": "",
+    "version": "1.5.0",
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/da3bt19-ca0b7c0c-d84c-4ef7-aae0-90c5cc08eeec.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGEzYnQxOS1jYTBiN2MwYy1kODRjLTRlZjctYWFlMC05MGM1Y2MwOGVlZWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pZsC6dSbvtDYURNZXer0hg4dl3LlXwjkvDLjitf6wBo",
     "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg?t=1773328332",
-    "isMultipart": false,
-    "dependentParts": "nao",
-    "downloadUrl": "",
-    "partLinks": null,
+    "isMultipart": true,
+    "dependentParts": "ambos",
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/w3nwr45378ertow/LX_UNIFIT_001.rar/file",
+      "https://www.mediafire.com/file/80b2y9jigp7ff5t/LX_UNIFIT_002.rar/file",
+      "https://www.mediafire.com/file/sk4xqtuf8l1o7mr/LX_UNIFIT_003.rar/file",
+      "https://www.mediafire.com/file/zdd9fte7kmx3bpx/LX_UNIFIT_004.rar/file",
+      "https://www.mediafire.com/file/ll965odso6m3lzi/LX_UNIFIT_005.rar/file",
+      "https://www.mediafire.com/file/q4pj03y9rgyn8xd/LX_UNIFIT_006_lxpta2.part1.rar/file",
+      "https://www.mediafire.com/file/fy4wd2yf20pfbu9/LX_UNIFIT_006_lxpta2.part2.rar/file"
+    ],
     "saveGames": null,
     "executablePath": "",
     "gameSizeBytes": null
