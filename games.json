@@ -902,18 +902,34 @@
     "gameSizeBytes": 17883384572
   },
   {
-    "name": "Assassin's Creed Odyssey",
+    "name": "Assassin’s Creed: Odyssey – Ultimate Edition",
     "version": "1.5.3",
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a98cff5d-a612-49d8-a0db-175994384b20/dcog1rp-163af794-2d25-44f9-a6f0-85ca6da33535.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9hOThjZmY1ZC1hNjEyLTQ5ZDgtYTBkYi0xNzU5OTQzODRiMjAvZGNvZzFycC0xNjNhZjc5NC0yZDI1LTQ0ZjktYTZmMC04NWNhNmRhMzM1MzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lRcB7_53jVQOTa3wbY-C3W6HamQddSjCL-OmXosStos",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/header.jpg?t=1758656673",
-    "isMultipart": false,
+    "isMultipart": true,
     "dependentParts": "ambos",
-    "downloadUrl": "",
-    "partLinks": null,
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/wa9cs1ya3lz6k79/BlaLX_ODYFIT_001.rar/file",
+      "https://www.mediafire.com/file/ut0iwlmybxckdkx/LX_ODYFIT_002.rar/file",
+      "https://www.mediafire.com/file/9plktvypzptyevt/LX_ODYFIT_003.rar/file",
+      "https://www.mediafire.com/file/18k4bio8pq9rx8z/LX_ODYFIT_004.rar/file",
+      "https://www.mediafire.com/file/c8456fwh3pczd4b/BlbLX_ODYFIT_005.rar/file",
+      "https://www.mediafire.com/file/xng23p4com9eb73/LX_ODYFIT_006.rar/file",
+      "https://www.mediafire.com/file/yorp4gmg942ke39/LX_ODYFIT_007.rar/file",
+      "https://www.mediafire.com/file/anlae4sx219tzi1/LX_ODYFIT_008.rar/file",
+      "https://www.mediafire.com/file/yp8rju0x0gguf5f/LX_ODYFIT_009.rar/file",
+      "https://www.mediafire.com/file/vy0yvtjg5d3ixtz/LX_ODYFIT_010.rar/file",
+      "https://www.mediafire.com/file/yawo9fxfxr1pr95/LX_ODYFIT_011_lxpta2.part1.rar/file",
+      "https://www.mediafire.com/file/vtir2o852zpu6cy/BlaLX_ODYFIT_011_lxpta2.part2.rar/file",
+      "https://www.mediafire.com/file/xe7cgdlvcoqivn7/LX_ODYFIT_012_lxptb3.part1.rar/file",
+      "https://www.mediafire.com/file/33zzaasj4u89vhs/LX_ODYFIT_012_lxptb3.part2.rar/file",
+      "https://www.mediafire.com/file/i4l5pl0u78qbcyb/BlbLX_ODYFIT_012_lxptb3.part3.rar/file"
+    ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": 120272684104
   },
   {
     "name": "Assassin's Creed Origins Gold Edition",
