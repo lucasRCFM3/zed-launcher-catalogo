@@ -354,11 +354,7 @@
     "saveGames": [
       {
         "url": "",
-        "path": "%UserProfile%\\Documents\\Marvel's Spider-Man 2\\76561197960271872"
-      },
-      {
-        "url": "",
-        "path": "%UserProfile%\\Documents\\Marvel's Spider-Man 2\\Screenshots"
+        "path": "%UserProfile%\\Documents\\Marvel's Spider-Man 2\\"
       }
     ],
     "executablePath": "",
