@@ -894,10 +894,13 @@
     "date": "",
     "icon": "https://cdn2.steamgriddb.com/icon_thumb/d3f93e7766e8e1b7ef66dfdd9a8be93b.png",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20900/header.jpg?t=1749200362",
-    "isMultipart": false,
+    "isMultipart": true,
     "dependentParts": "nao",
-    "downloadUrl": "",
-    "partLinks": null,
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/7g7r19h0fuj3uqo/LX_TWFIT_001.rar/file",
+      "https://www.mediafire.com/file/f6xqd5lq5sjdwkt/LX_TWFIT_002.rar/file"
+    ],
     "saveGames": null,
     "executablePath": "",
     "gameSizeBytes": null
