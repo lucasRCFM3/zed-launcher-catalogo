@@ -51,29 +51,33 @@
     "gameSizeBytes": 98366785396
   },
   {
-    "name": "[MAINT] Split Fiction",
+    "name": "[ON] Split Fiction",
     "version": "",
     "date": "2025-05-27",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f0ff480-3d58-4409-8a2f-ce48642e60e7/diqtibb-3c2c5ac8-e785-485c-b96e-2abdd159bdea.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84ZjBmZjQ4MC0zZDU4LTQ0MDktOGEyZi1jZTQ4NjQyZTYwZTcvZGlxdGliYi0zYzJjNWFjOC1lNzg1LTQ4NWMtYjk2ZS0yYWJkZDE1OWJkZWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vrQ_FDUFDjiHhpwc05Hrm0rldZfMSAgTSCCExaqoXgg",
     "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg?t=1763484567",
     "isMultipart": true,
-    "dependentParts": "sim",
+    "dependentParts": "ambos",
     "downloadUrl": null,
     "partLinks": [
-      "https://www.mediafire.com/file/ej77wdxreyy063u/Split_Fiction.7z.001/file",
-      "https://www.mediafire.com/file/xm4xq3xkyr99cyj/Split+Fiction.7z.002/file",
-      "https://www.mediafire.com/file/cvjihvug1jwrvlu/Split+Fiction.7z.003/file",
-      "https://www.mediafire.com/file/lccwjckfsfhltmx/Split+Fiction.7z.004/file",
-      "https://www.mediafire.com/file/o8zc1vkyr178feq/Split+Fiction.7z.005/file",
-      "https://www.mediafire.com/file/71pqhnv4ncj1p90/Split+Fiction.7z.006/file",
-      "https://www.mediafire.com/file/w0x9pflgyep9a5x/Split+Fiction.7z.007/file",
-      "https://www.mediafire.com/file/zvmo5b37z6spu5m/Split+Fiction.7z.008/file",
-      "https://www.mediafire.com/file/5nkf3edqr1anmwu/Split+Fiction.7z.009/file",
-      "https://www.mediafire.com/file/bi5nmu3cgdq0jcc/Split+Fiction.7z.010/file"
+      "https://www.mediafire.com/file/tp9hhi9qa2qvpms/BlaLX_ON_SPLITFIT_001.rar/file",
+      "https://www.mediafire.com/file/ypiajo0jlmhwfzl/LX_ON_SPLITFIT_002.rar/file",
+      "https://www.mediafire.com/file/gpjf62hla68pcuf/LX_ON_SPLITFIT_003.rar/file",
+      "https://www.mediafire.com/file/5ck4iubgue9mey7/LX_ON_SPLITFIT_004.rar/file",
+      "https://www.mediafire.com/file/jegdccz8obnc73s/BlaLX_ON_SPLITFIT_005.rar/file",
+      "https://www.mediafire.com/file/errpwwh17als1kt/LX_ON_SPLITFIT_006.rar/file",
+      "https://www.mediafire.com/file/ekfhbuxhr2ohbp3/BlbLX_ON_SPLITFIT_007.rar/file",
+      "https://www.mediafire.com/file/dasewflsg16z6ec/BlbLX_ON_SPLITFIT_008.rar/file",
+      "https://www.mediafire.com/file/v7sw4yby1455wzl/BlcLX_ON_SPLITFIT_009.rar/file",
+      "https://www.mediafire.com/file/w49qmtgt9x3chdt/LX_ON_SPLITFIT_010.rar/file",
+      "https://www.mediafire.com/file/xkr1tcqwzc2x6l3/LX_ON_SPLITFIT_011.rar/file",
+      "https://www.mediafire.com/file/wmxy0mlza1i9mea/LX_ON_SPLITFIT_012.rar/file",
+      "https://www.mediafire.com/file/95x9x9vdl5b6159/LX_ON_SPLITFIT_013_lxpta2.part1.rar/file",
+      "https://www.mediafire.com/file/vfx2cykbxr6jadt/BlcLX_ON_SPLITFIT_013_lxpta2.part2.rar/file"
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": 94204854630
   },
   {
     "name": "[MAINT] Naruto Shippuden: Ultimate Ninja Storm Revolution",
