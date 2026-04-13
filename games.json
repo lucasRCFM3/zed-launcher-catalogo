@@ -944,10 +944,25 @@
     "isMultipart": true,
     "dependentParts": "ambos",
     "downloadUrl": null,
-    "partLinks": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/tp9hhi9qa2qvpms/BlaLX_ON_SPLITFIT_001.rar/file",
+      "https://www.mediafire.com/file/ypiajo0jlmhwfzl/LX_ON_SPLITFIT_002.rar/file",
+      "https://www.mediafire.com/file/gpjf62hla68pcuf/LX_ON_SPLITFIT_003.rar/file",
+      "https://www.mediafire.com/file/5ck4iubgue9mey7/LX_ON_SPLITFIT_004.rar/file",
+      "https://www.mediafire.com/file/jegdccz8obnc73s/BlaLX_ON_SPLITFIT_005.rar/file",
+      "https://www.mediafire.com/file/errpwwh17als1kt/LX_ON_SPLITFIT_006.rar/file",
+      "https://www.mediafire.com/file/ekfhbuxhr2ohbp3/BlbLX_ON_SPLITFIT_007.rar/file",
+      "https://www.mediafire.com/file/dasewflsg16z6ec/BlbLX_ON_SPLITFIT_008.rar/file",
+      "https://www.mediafire.com/file/v7sw4yby1455wzl/BlcLX_ON_SPLITFIT_009.rar/file",
+      "https://www.mediafire.com/file/w49qmtgt9x3chdt/LX_ON_SPLITFIT_010.rar/file",
+      "https://www.mediafire.com/file/xkr1tcqwzc2x6l3/LX_ON_SPLITFIT_011.rar/file",
+      "https://www.mediafire.com/file/wmxy0mlza1i9mea/LX_ON_SPLITFIT_012.rar/file",
+      "https://www.mediafire.com/file/95x9x9vdl5b6159/LX_ON_SPLITFIT_013_lxpta2.part1.rar/file",
+      "https://www.mediafire.com/file/vfx2cykbxr6jadt/BlcLX_ON_SPLITFIT_013_lxpta2.part2.rar/file"
+    ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": 94204854630
   },
   {
     "name": "Assassin's Creed Mirage Master Assassin Edition",
@@ -972,7 +987,7 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": 69854231179
   },
   {
     "name": "Assassin's Creed Valhalla",
