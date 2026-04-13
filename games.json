@@ -54,7 +54,7 @@
   },
   {
     "name": "[ON] Split Fiction",
-    "crackTag": "Hypervisor",
+    "crackTag": "OnlineFix",
     "version": "",
     "date": "2025-05-27",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f0ff480-3d58-4409-8a2f-ce48642e60e7/diqtibb-3c2c5ac8-e785-485c-b96e-2abdd159bdea.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84ZjBmZjQ4MC0zZDU4LTQ0MDktOGEyZi1jZTQ4NjQyZTYwZTcvZGlxdGliYi0zYzJjNWFjOC1lNzg1LTQ4NWMtYjk2ZS0yYWJkZDE1OWJkZWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vrQ_FDUFDjiHhpwc05Hrm0rldZfMSAgTSCCExaqoXgg",
@@ -80,7 +80,7 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 94204854630
+    "gameSizeBytes": null
   },
   {
     "name": "[MAINT] Naruto Shippuden: Ultimate Ninja Storm Revolution",
