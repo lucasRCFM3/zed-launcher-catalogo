@@ -22,7 +22,13 @@
     ],
     "saveGames": null,
     "executablePath": "Game\\\\Bin\\\\TS4_Launcher_x64.exe",
-    "gameSizeBytes": null
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Cities: Skylines II Ultimate Edition",
@@ -50,7 +56,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 98366785396
+    "gameSizeBytes": 98366785396,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "[ON] Split Fiction",
@@ -80,7 +92,27 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 94204854630
+    "gameSizeBytes": null,
+    "onlineCrackLink": "https://www.mediafire.com/file/c49qfko11gk46f4/SPLITFICTION_ONLINE_FIX.rar/file",
+    "offlineCrackLink": "https://www.mediafire.com/file/qwxi7dbrspvq2s6/SPCRK.rar/file",
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": [
+      "Split\\Binaries\\Win64\\OnlineFix.ini",
+      "Split\\Binaries\\Win64\\OnlineFix.url",
+      "Split\\Binaries\\Win64\\OnlineFix64.dll",
+      "Split\\Binaries\\Win64\\steam_api64.dll",
+      "Split\\Binaries\\Win64\\steam_api64.of",
+      "Split\\Binaries\\Win64",
+      "Split\\Binaries",
+      "Split"
+    ],
+    "offlineCrackManifest": [
+      "Split\\Binaries\\Win64\\steam_api64.dll",
+      "Split\\Binaries\\Win64",
+      "Split\\Binaries",
+      "Split"
+    ]
   },
   {
     "name": "[MAINT] Naruto Shippuden: Ultimate Ninja Storm Revolution",
@@ -100,7 +132,13 @@
       }
     ],
     "executablePath": "NSUNSR_launcher.exe",
-    "gameSizeBytes": null
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "[MAINT] NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
@@ -126,7 +164,13 @@
       }
     ],
     "executablePath": "NSUNS4.exe",
-    "gameSizeBytes": null
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "[MAINT] Naruto X Boruto: Ultimate Ninja Storm Connections",
@@ -151,7 +195,13 @@
       }
     ],
     "executablePath": "NSUNSC.exe",
-    "gameSizeBytes": null
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "[MAINT] Dragon Ball FighterZ",
@@ -166,7 +216,13 @@
     "partLinks": null,
     "saveGames": null,
     "executablePath": "DBFighterZ.exe",
-    "gameSizeBytes": null
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Tekken 8",
@@ -199,7 +255,13 @@
     ],
     "saveGames": null,
     "executablePath": "TEKKEN 8.exe",
-    "gameSizeBytes": 136801776482
+    "gameSizeBytes": 136801776482,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Mortal Kombat 11 Ultimate Edition",
@@ -233,7 +295,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 156721350412
+    "gameSizeBytes": 156721350412,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Street Fighter V Champion Edition",
@@ -258,7 +326,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 58653949216
+    "gameSizeBytes": 58653949216,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Injustice 2 Legendary Edition",
@@ -279,7 +353,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 47725397622
+    "gameSizeBytes": 47725397622,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Marvel's Spider-Man Remastered",
@@ -305,7 +385,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 84856773948
+    "gameSizeBytes": 84856773948,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Marvel's Spider-Man: Miles Morales",
@@ -338,7 +424,13 @@
       }
     ],
     "executablePath": "",
-    "gameSizeBytes": 61238584464
+    "gameSizeBytes": 61238584464,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Marvel's Spider-Man 2",
@@ -376,7 +468,13 @@
       }
     ],
     "executablePath": "",
-    "gameSizeBytes": 147460349470
+    "gameSizeBytes": 147460349470,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Detroit: Become Human",
@@ -400,7 +498,13 @@
     ],
     "saveGames": null,
     "executablePath": "DetroitBecomeHuman.exe",
-    "gameSizeBytes": 63080794944
+    "gameSizeBytes": 63080794944,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "HITMAN World of Assassination",
@@ -426,7 +530,13 @@
     ],
     "saveGames": null,
     "executablePath": "Hitman 3.exe",
-    "gameSizeBytes": 86075137662
+    "gameSizeBytes": 86075137662,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Horizon Zero Dawn Remastered",
@@ -457,7 +567,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 129470255282
+    "gameSizeBytes": 129470255282,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Horizon Forbidden West Complete Edition",
@@ -491,7 +607,13 @@
     ],
     "saveGames": null,
     "executablePath": "HorizonForbiddenWest.exe",
-    "gameSizeBytes": 157460059020
+    "gameSizeBytes": 157460059020,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Nioh 3",
@@ -524,7 +646,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 122225833038
+    "gameSizeBytes": 122225833038,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Nioh 2: The Complete Edition",
@@ -550,7 +678,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 82031645574
+    "gameSizeBytes": 82031645574,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Nioh: Complete Edition",
@@ -576,7 +710,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 79326472470
+    "gameSizeBytes": 79326472470,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Elden Ring Deluxe Edition (+ Shadow of the Erdtree)",
@@ -603,7 +743,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 74763866596
+    "gameSizeBytes": 74763866596,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Elden Ring Nightreign Deluxe Edition",
@@ -623,7 +769,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 28710700568
+    "gameSizeBytes": 28710700568,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Sekiro: Shadows Die Twice",
@@ -642,7 +794,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 16048427578
+    "gameSizeBytes": 16048427578,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Ghost of Tsushima Directors Cut",
@@ -667,7 +825,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 71258200830
+    "gameSizeBytes": 71258200830,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Hogwarts Legacy",
@@ -696,7 +860,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 97474200286
+    "gameSizeBytes": 97474200286,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Lies of P: Overture Bundle",
@@ -720,7 +890,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 64029521600
+    "gameSizeBytes": 64029521600,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Avowed: Premium Edition",
@@ -745,7 +921,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 75046957116
+    "gameSizeBytes": 75046957116,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "SIFU Deluxe Edition",
@@ -766,7 +948,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 32913032428
+    "gameSizeBytes": 32913032428,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Cyberpunk 2077",
@@ -808,7 +996,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 163659003378
+    "gameSizeBytes": 163659003378,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "God of War (2018)",
@@ -832,7 +1026,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 69255338480
+    "gameSizeBytes": 69255338480,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "God of War Ragnarok",
@@ -873,7 +1073,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 178337379412
+    "gameSizeBytes": 178337379412,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "The Witcher 3: Wild Hunt Complete Edition",
@@ -900,7 +1106,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 94313854810
+    "gameSizeBytes": 94313854810,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "The Witcher 2: Assassins of Kings Enhanced Editon",
@@ -920,7 +1132,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 26789587690
+    "gameSizeBytes": 26789587690,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "The Witcher: Enhanced Edition Director's Cut",
@@ -938,7 +1156,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 17883384572
+    "gameSizeBytes": 17883384572,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Assassin’s Creed: Odyssey – Ultimate Edition",
@@ -969,7 +1193,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 120272684104
+    "gameSizeBytes": 120272684104,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Assassin's Creed Origins Gold Edition",
@@ -999,7 +1229,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 94204854630
+    "gameSizeBytes": 94204854630,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Assassin's Creed Mirage Master Assassin Edition",
@@ -1025,7 +1261,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 69854231179
+    "gameSizeBytes": 69854231179,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Assassin's Creed Valhalla",
@@ -1062,7 +1304,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Assassin's Creed I",
@@ -1077,7 +1325,13 @@
     "partLinks": null,
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Assassin's Creed II",
@@ -1092,7 +1346,13 @@
     "partLinks": null,
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Assassin's Creed Brotherhood",
@@ -1107,7 +1367,13 @@
     "partLinks": null,
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Assassin's Creed Revelations",
@@ -1122,7 +1388,13 @@
     "partLinks": null,
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Assassin's Creed IV: Black Flag",
@@ -1141,7 +1413,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Assassin's Creed Rogue",
@@ -1159,7 +1437,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Assassin's Creed III",
@@ -1174,7 +1458,13 @@
     "partLinks": null,
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Assassin's Creed Unity",
@@ -1197,7 +1487,13 @@
     ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": 52881287204
+    "gameSizeBytes": 52881287204,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   },
   {
     "name": "Assassin's Creed Syndicate",
@@ -1212,6 +1508,12 @@
     "partLinks": null,
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   }
 ]
