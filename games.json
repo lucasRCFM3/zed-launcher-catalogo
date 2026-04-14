@@ -90,7 +90,12 @@
       "https://www.mediafire.com/file/o14e0h5q4vao8p0/LX_SPLITFIT_013_lxpta2.part1.rar/file",
       "https://www.mediafire.com/file/eaj6g64ng2z5ulr/BlcLX_SPLITFIT_013_lxpta2.part2.rar/file"
     ],
-    "saveGames": null,
+    "saveGames": [
+      {
+        "url": "",
+        "path": "%SystemDrive%\\Users\\Public\\Documents\\Steam\\RUNE\\2001120"
+      }
+    ],
     "executablePath": "",
     "gameSizeBytes": 94145175638,
     "onlineCrackLink": "https://www.mediafire.com/file/c49qfko11gk46f4/SPLITFICTION_ONLINE_FIX.rar/file",
