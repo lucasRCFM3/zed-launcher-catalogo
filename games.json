@@ -402,11 +402,7 @@
     "saveGames": [
       {
         "url": "",
-        "path": "%UserProfile%\\Documents\\Marvel's Spider-Man Miles Morales\\76561198682240980"
-      },
-      {
-        "url": "",
-        "path": "%UserProfile%\\Documents\\Marvel's Spider-Man Miles Morales\\Screenshots"
+        "path": "%UserProfile%\\Documents\\Marvel's Spider-Man Miles Morales\\"
       }
     ],
     "executablePath": "",
