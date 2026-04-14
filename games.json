@@ -106,6 +106,27 @@
     "offlineCrackManifest": null
   },
   {
+    "name": "EA SPORTS FC 26",
+    "crackTag": "Hypervisor",
+    "version": "1.0.133.58379",
+    "date": "",
+    "icon": "https://img.utdstc.com/icon/73c/627/73c627a1343e6611cc7e5423dc57708537d9e07a56525cfbd910a18659f10024:200",
+    "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3405690/2d96aa1b06e453cd62dae9029d412f19e61932c3/header.jpg?t=1775577454",
+    "isMultipart": false,
+    "dependentParts": "ambos",
+    "downloadUrl": "",
+    "partLinks": null,
+    "saveGames": null,
+    "executablePath": "FC26.exe",
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
+  },
+  {
     "name": "[MAINT] Naruto Shippuden: Ultimate Ninja Storm Revolution",
     "crackTag": null,
     "version": "2.0",
