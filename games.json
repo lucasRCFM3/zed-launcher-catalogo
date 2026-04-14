@@ -1301,19 +1301,21 @@
     "offlineCrackManifest": null
   },
   {
-    "name": "Assassin's Creed I",
+    "name": "Assassin's Creed Directors Cut",
     "crackTag": null,
-    "version": "",
+    "version": "252091",
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/da3boqn-b579891b-64ec-4829-87fd-30ec09c5105f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGEzYm9xbi1iNTc5ODkxYi02NGVjLTQ4MjktODdmZC0zMGVjMDljNTEwNWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.URE471rnSBdMH0a_utBXnojeajikNPDu-92SUE2iH6o",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/header.jpg?t=1602600542",
     "isMultipart": true,
     "dependentParts": "nao",
     "downloadUrl": null,
-    "partLinks": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/enrw1mc99wecpr1/LX_AS1FIT_001.rar/file"
+    ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null,
+    "gameSizeBytes": 7662520366,
     "onlineCrackLink": null,
     "offlineCrackLink": null,
     "onlineCrackPassword": null,
@@ -1331,10 +1333,12 @@
     "isMultipart": true,
     "dependentParts": "nao",
     "downloadUrl": null,
-    "partLinks": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/hftbnk2dr6961zk/LX_AS2FIT_001.rar/file"
+    ],
     "saveGames": null,
     "executablePath": "",
-    "gameSizeBytes": null,
+    "gameSizeBytes": 7405728222,
     "onlineCrackLink": null,
     "offlineCrackLink": null,
     "onlineCrackPassword": null,
