@@ -1561,5 +1561,32 @@
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
     "offlineCrackManifest": null
+  },
+  {
+    "name": "The Crew 2: Gold Edition",
+    "crackTag": null,
+    "version": "4060652",
+    "date": "",
+    "icon": "https://image.api.playstation.com/cdn/EP0001/CUSA09665_00/QFYshf96WBbK0v22zBTHCv4ByaPTFyOf.png?w=440",
+    "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646910/header.jpg?t=1765228126",
+    "isMultipart": true,
+    "dependentParts": "nao",
+    "downloadUrl": null,
+    "partLinks": [
+      "https://www.mediafire.com/file/qhga2hj5wuyoqrd/LX_CREW2FIT_001.rar/file",
+      "https://www.mediafire.com/file/f1ii9hse7wid8o5/LX_CREW2FIT_002.rar/file",
+      "https://www.mediafire.com/file/19wwnqayiarfpsi/LX_CREW2FIT_003.rar/file",
+      "https://www.mediafire.com/file/ubixrrzvg65by98/LX_CREW2FIT_004.rar/file",
+      "https://www.mediafire.com/file/ph2uldbkxq2sx9k/LX_CREW2FIT_005.rar/file"
+    ],
+    "saveGames": null,
+    "executablePath": "",
+    "gameSizeBytes": 38007719590,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   }
 ]
