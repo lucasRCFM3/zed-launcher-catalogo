@@ -1681,5 +1681,43 @@
     "offlineCrackManifest": [
       "steam_api64.dll"
     ]
+  },
+  {
+    "name": "Subnautica Below Zero",
+    "crackTag": "OnlineFix",
+    "version": "20245197",
+    "date": "",
+    "icon": "https://cdn2.steamgriddb.com/icon/ae3539867aaeec609a4260c6feb725f4.ico",
+    "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848450/capsule_616x353.jpg?t=1774343326",
+    "isMultipart": false,
+    "dependentParts": "nao",
+    "downloadUrl": "",
+    "partLinks": null,
+    "saveGames": null,
+    "executablePath": "",
+    "gameSizeBytes": null,
+    "onlineCrackLink": "https://www.mediafire.com/file/w4ibfk800sxwg78/Subnautica_0_crk_on.rar/file",
+    "offlineCrackLink": "https://www.mediafire.com/file/dkm3oq9tlmcwxa4/subnautica_0_crk_off.rar/file",
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": [
+      "OnlineFix.ini",
+      "OnlineFix.url",
+      "OnlineFix64.dll",
+      "SteamOverlay64.dll",
+      "Subnautica.Multiplayer.exe",
+      "winmm.dll",
+      "SubnauticaZero_Data\\Plugins\\x86_64\\steam_api64.dll",
+      "dlllist.txt",
+      "SubnauticaZero_Data\\Plugins\\x86_64",
+      "SubnauticaZero_Data\\Plugins",
+      "SubnauticaZero_Data"
+    ],
+    "offlineCrackManifest": [
+      "steam_settings\\force_language.txt",
+      "steam_api64.dll",
+      "steam_appid.txt",
+      "steam_settings"
+    ]
   }
 ]
