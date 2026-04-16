@@ -1714,10 +1714,11 @@
       "SubnauticaZero_Data"
     ],
     "offlineCrackManifest": [
-      "steam_settings\\force_language.txt",
-      "steam_api64.dll",
       "steam_appid.txt",
-      "steam_settings"
+      "SubnauticaZero_Data\\Plugins\\x86_64\\steam_api64.dll",
+      "SubnauticaZero_Data\\Plugins\\x86_64",
+      "SubnauticaZero_Data\\Plugins",
+      "SubnauticaZero_Data"
     ]
   },
   {
