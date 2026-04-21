@@ -65,6 +65,27 @@
     "offlineCrackManifest": null
   },
   {
+    "name": "Atomic Heart Ultimate Edition",
+    "crackTag": "Hypervisor",
+    "version": "22814599",
+    "date": "",
+    "icon": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2815/SSru3b0CYWviMXfW6bYgaWlX.png",
+    "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/72176/l320dcpous3j0d5t/399c979b16cd83f65c0ac089d1bf9d314642dfd0/header.jpg?t=1776353216",
+    "isMultipart": false,
+    "dependentParts": "nao",
+    "downloadUrl": "",
+    "partLinks": null,
+    "saveGames": null,
+    "executablePath": "",
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
+  },
+  {
     "name": "Split Fiction",
     "crackTag": "OnlineFix",
     "version": "",
