@@ -2002,5 +2002,26 @@
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
     "offlineCrackManifest": null
+  },
+  {
+    "name": "Raft",
+    "crackTag": "OnlineFix",
+    "version": "1.1.01",
+    "date": "",
+    "icon": "https://cdn2.steamgriddb.com/icon/3bc412ad4910c19f6710515540190792/32/512x512.png",
+    "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg",
+    "isMultipart": false,
+    "dependentParts": "nao",
+    "downloadUrl": "https://www.mediafire.com/file/w5j571lcq8plbb1/LX_RAFTFIT_001.rar/file",
+    "partLinks": null,
+    "saveGames": null,
+    "executablePath": "",
+    "gameSizeBytes": 7792261598,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null
   }
 ]
