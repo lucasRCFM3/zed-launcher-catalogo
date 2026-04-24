@@ -945,7 +945,7 @@
     "date": "",
     "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dj6b064-2c180bd3-ec35-43c4-b177-04f49bb15599.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGo2YjA2NC0yYzE4MGJkMy1lYzM1LTQzYzQtYjE3Ny0wNGY0OWJiMTU1OTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sXSOMWieNFJX-pURJAxcyjheLXNKLicfCxP4xYjy_ec",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/capsule_616x353.jpg?t=1771352530",
-    "build": null,
+    "build": "21896425",
     "appId": "2457220",
     "isMultipart": true,
     "dependentParts": "ambos",
