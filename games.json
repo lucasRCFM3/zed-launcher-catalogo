@@ -2092,7 +2092,7 @@
     "executablePath": "",
     "gameSizeBytes": 7792261598,
     "onlineCrackLink": "https://www.mediafire.com/file/bhnh4tu6qqxx6df/RAFT_ON_CRACK.rar/file",
-    "offlineCrackLink": "https://www.mediafire.com/file/lartswro8a0p4i7/RAFT_OFF_CRACK.rar/file",
+    "offlineCrackLink": "https://www.mediafire.com/file/cnuestinzdzxrfg/RAFT_OFF_CRACK.rar/file",
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": [
@@ -2115,8 +2115,10 @@
       "steam_settings\\achievements.json",
       "steam_settings\\stats.txt",
       "steam_appid.txt",
+      "Raft_Data\\Managed\\PlayFab.dll",
       "Raft_Data\\Plugins\\x86_64\\steam_api64.dll",
       "Raft_Data\\Plugins\\x86_64",
+      "Raft_Data\\Managed",
       "Raft_Data\\Plugins",
       "steam_settings",
       "Raft_Data"
