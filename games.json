@@ -2115,7 +2115,11 @@
     "saveGames": [
       {
         "url": "",
-        "path": "C:\\Users\\rcfm\\AppData\\LocalLow\\TVGS\\Schedule I\\Saves"
+        "path": "%USERPROFILE%\\AppData\\LocalLow\\TVGS\\Schedule I\\Saves\\"
+      },
+      {
+        "url": "",
+        "path": "C:\\Users\\Public\\Documents\\OnlineFix\\3164500\\Saves\\"
       }
     ],
     "executablePath": "",
