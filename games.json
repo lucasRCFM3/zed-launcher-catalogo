@@ -839,7 +839,7 @@
     "date": "",
     "icon": "https://cdn2.steamgriddb.com/icon/fb22fb2b63ebd0f8261cbfc4809cd152.ico",
     "banner": "https://thecosmiccircus.com/wp-content/uploads/2022/11/HLEGACY-1024x538.jpg",
-    "build": null,
+    "build": "20773316",
     "appId": "990080",
     "isMultipart": true,
     "dependentParts": "ambos",
