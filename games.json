@@ -1173,7 +1173,7 @@
     "date": "",
     "icon": "https://cdn2.steamgriddb.com/icon_thumb/0397758f8990c1b41b81b43ac389ab9f.png",
     "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20920/capsule_616x353.jpg?t=1761657279",
-    "build": null,
+    "build": "607393",
     "appId": "20920",
     "isMultipart": true,
     "dependentParts": "ambos",
