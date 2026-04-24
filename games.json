@@ -2095,8 +2095,32 @@
     "offlineCrackLink": "https://www.mediafire.com/file/lartswro8a0p4i7/RAFT_OFF_CRACK.rar/file",
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
-    "onlineCrackManifest": null,
-    "offlineCrackManifest": null,
+    "onlineCrackManifest": [
+      "dlllist.txt",
+      "OnlineFix.ini",
+      "OnlineFix.url",
+      "OnlineFix64.dll",
+      "SteamOverlay64.dll",
+      "StubDRM64.dll",
+      "winmm.dll",
+      "Raft_Data\\Managed\\PlayFab.dll",
+      "Raft_Data\\Plugins\\x86_64\\steam_api64.dll",
+      "Custom.dll",
+      "Raft_Data\\Plugins\\x86_64",
+      "Raft_Data\\Managed",
+      "Raft_Data\\Plugins",
+      "Raft_Data"
+    ],
+    "offlineCrackManifest": [
+      "steam_settings\\achievements.json",
+      "steam_settings\\stats.txt",
+      "steam_appid.txt",
+      "Raft_Data\\Plugins\\x86_64\\steam_api64.dll",
+      "Raft_Data\\Plugins\\x86_64",
+      "Raft_Data\\Plugins",
+      "steam_settings",
+      "Raft_Data"
+    ],
     "variants": null
   },
   {
