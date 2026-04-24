@@ -2112,7 +2112,12 @@
     "dependentParts": "nao",
     "downloadUrl": "https://www.mediafire.com/file/c3xdy42e51qievu/LX_SCHFIT_001.rar/file",
     "partLinks": null,
-    "saveGames": null,
+    "saveGames": [
+      {
+        "url": "",
+        "path": "C:\\Users\\rcfm\\AppData\\LocalLow\\TVGS\\Schedule I\\Saves"
+      }
+    ],
     "executablePath": "",
     "gameSizeBytes": 7885845086,
     "onlineCrackLink": "https://www.mediafire.com/file/2elcd8p3cai58re/SCHEDULE_ON_CRACK.rar/file",
