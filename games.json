@@ -33,7 +33,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Atomic Heart Ultimate Edition",
@@ -80,7 +81,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Split Fiction",
@@ -123,7 +125,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "EA SPORTS FC 26",
@@ -156,7 +159,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Tekken 8",
@@ -197,7 +201,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Mortal Kombat 11 Ultimate Edition",
@@ -239,7 +244,35 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": [
+      {
+        "name": "Mortal Kombat 11 Ultimate Edition",
+        "crackTag": null,
+        "version": "v0.384.1",
+        "date": "",
+        "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfn9vse-2d13b802-aab3-4812-b70b-81da1d37aae6.png/v1/fill/w_512,h_512/mortal_kombat_11_icon_ico_by_hatemtiger_dfn9vse-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9kZm45dnNlLTJkMTNiODAyLWFhYjMtNDgxMi1iNzBiLTgxZGExZDM3YWFlNi5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.i-dKoZfQR3gG_TfDOoTUOBAYy3oJbxdF3q6R2CFRGvY",
+        "banner": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/capsule_616x353.jpg?t=1747925751",
+        "build": "22112346",
+        "appId": "976310",
+        "isMultipart": true,
+        "dependentParts": "nao",
+        "downloadUrl": null,
+        "partLinks": [
+          "https://www.mediafire.com/file/rnjeoi8y0kswvhu/BlaLX_MKX11FIT_001.rar/file"
+        ],
+        "saveGames": null,
+        "executablePath": "",
+        "gameSizeBytes": null,
+        "onlineCrackLink": null,
+        "offlineCrackLink": null,
+        "onlineCrackPassword": null,
+        "offlineCrackPassword": null,
+        "onlineCrackManifest": null,
+        "offlineCrackManifest": null,
+        "variants": null
+      }
+    ]
   },
   {
     "name": "Street Fighter V Champion Edition",
@@ -272,7 +305,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Injustice 2 Legendary Edition",
@@ -301,7 +335,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Marvel's Spider-Man Remastered",
@@ -335,7 +370,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Marvel's Spider-Man: Miles Morales",
@@ -372,7 +408,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Marvel's Spider-Man 2",
@@ -418,7 +455,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Detroit: Become Human",
@@ -450,7 +488,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "HITMAN World of Assassination",
@@ -484,7 +523,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Horizon Zero Dawn Remastered",
@@ -523,7 +563,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Horizon Forbidden West Complete Edition",
@@ -565,7 +606,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Nioh 3",
@@ -606,7 +648,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Nioh 2: The Complete Edition",
@@ -640,7 +683,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Nioh: Complete Edition",
@@ -674,7 +718,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Elden Ring Deluxe Edition (+ Shadow of the Erdtree)",
@@ -709,7 +754,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Elden Ring Nightreign Deluxe Edition",
@@ -737,7 +783,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Sekiro: Shadows Die Twice",
@@ -764,7 +811,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Ghost of Tsushima Directors Cut",
@@ -797,7 +845,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "[HV] [UPDATED] Hogwarts Legacy",
@@ -834,7 +883,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Hogwarts Legacy",
@@ -871,7 +921,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Lies of P: Overture Bundle",
@@ -903,7 +954,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Avowed: Premium Edition",
@@ -936,7 +988,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "SIFU Deluxe Edition",
@@ -965,7 +1018,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Cyberpunk 2077",
@@ -1015,7 +1069,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "God of War (2018)",
@@ -1047,7 +1102,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "God of War Ragnarok",
@@ -1096,7 +1152,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "The Witcher 3: Wild Hunt Complete Edition",
@@ -1131,7 +1188,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "The Witcher 2: Assassins of Kings Enhanced Editon",
@@ -1159,7 +1217,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "The Witcher: Enhanced Edition Director's Cut",
@@ -1185,7 +1244,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Assassin’s Creed: Odyssey – Ultimate Edition",
@@ -1224,7 +1284,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Assassin's Creed Origins Gold Edition",
@@ -1262,7 +1323,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Assassin's Creed Mirage Master Assassin Edition",
@@ -1296,7 +1358,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Assassin's Creed Valhalla",
@@ -1342,7 +1405,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Assassin's Creed Directors Cut",
@@ -1367,7 +1431,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Assassin's Creed II",
@@ -1392,7 +1457,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Assassin's Creed Brotherhood",
@@ -1418,7 +1484,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Assassin's Creed Revelations",
@@ -1444,7 +1511,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Assassin's Creed IV: Black Flag",
@@ -1471,7 +1539,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Assassin's Creed Rogue",
@@ -1497,7 +1566,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Assassin's Creed III",
@@ -1527,7 +1597,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Assassin's Creed Unity",
@@ -1558,7 +1629,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Assassin's Creed Syndicate",
@@ -1591,7 +1663,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "The Crew 2: Gold Edition",
@@ -1620,7 +1693,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Forza Horizon 5: Premium Edition",
@@ -1680,7 +1754,8 @@
     ],
     "offlineCrackManifest": [
       "steam_api64.dll"
-    ]
+    ],
+    "variants": null
   },
   {
     "name": "Subnautica Below Zero",
@@ -1721,7 +1796,8 @@
       "SubnauticaZero_Data\\Plugins\\x86_64",
       "SubnauticaZero_Data\\Plugins",
       "SubnauticaZero_Data"
-    ]
+    ],
+    "variants": null
   },
   {
     "name": "No Man's Sky",
@@ -1749,7 +1825,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Subnautica",
@@ -1772,7 +1849,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Mortal Kombat 1: Khaos Reigns Kollection",
@@ -1817,7 +1895,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Black Myth: Wukong – Digital Deluxe Edition",
@@ -1863,7 +1942,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Street Fighter 6: Years 1-2 Fighters Edition",
@@ -1886,7 +1966,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Crimson Desert: Deluxe Edition",
@@ -1925,7 +2006,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Assassin’s Creed Shadows",
@@ -1972,7 +2054,8 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   },
   {
     "name": "Raft",
@@ -1995,6 +2078,7 @@
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null
+    "offlineCrackManifest": null,
+    "variants": null
   }
 ]
