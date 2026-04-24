@@ -2119,8 +2119,27 @@
     "offlineCrackLink": "https://www.mediafire.com/file/ee8nmsp1xuhbvrt/SCHEDULE_OFF_CRACK.rar/file",
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
-    "onlineCrackManifest": null,
-    "offlineCrackManifest": null,
+    "onlineCrackManifest": [
+      "dlllist.txt",
+      "OnlineFix.ini",
+      "OnlineFix.url",
+      "OnlineFix64.dll",
+      "SteamOverlay64.dll",
+      "winmm.dll",
+      "Schedule I_Data\\Plugins\\x86_64\\steam_api64.dll",
+      "Custom.dll",
+      "Schedule I_Data\\Plugins\\x86_64",
+      "Schedule I_Data\\Plugins",
+      "Schedule I_Data"
+    ],
+    "offlineCrackManifest": [
+      "Schedule I_Data\\Plugins\\x86_64\\steam_api64.dll",
+      "Schedule I_Data\\Plugins\\x86_64\\steam_api64.rne",
+      "Schedule I_Data\\Plugins\\x86_64\\steam_emu.ini",
+      "Schedule I_Data\\Plugins\\x86_64",
+      "Schedule I_Data\\Plugins",
+      "Schedule I_Data"
+    ],
     "variants": null
   }
 ]
