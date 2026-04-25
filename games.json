@@ -2338,15 +2338,36 @@
     "dependentParts": "nao",
     "downloadUrl": "https://www.mediafire.com/file/c7dujy7smotl2hl/LX_OVERAYCE_001.rar/file",
     "partLinks": null,
-    "saveGames": null,
+    "saveGames": [
+      {
+        "url": "",
+        "path": "%AppData%\\Goldberg SteamEmu Saves\\1243830\\remote"
+      },
+      {
+        "url": "",
+        "path": "%Public%\\Documents\\OnlineFix\\1243830\\Saves"
+      }
+    ],
     "executablePath": "",
     "gameSizeBytes": 9299375310,
-    "onlineCrackLink": null,
-    "offlineCrackLink": null,
+    "onlineCrackLink": "https://www.mediafire.com/file/p89pp10gnpc0byi/OVERCOOK_ON_CRACK.rar/file",
+    "offlineCrackLink": "https://www.mediafire.com/file/fxef10qk42mo58z/OVERCOOK_AYCE_OFF_CRACK.rar/file",
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
-    "offlineCrackManifest": null,
+    "offlineCrackManifest": [
+      "Overcooked All You Can Eat_Data\\Plugins\\x86_64\\steam_api64.dll",
+      "steam_settings\\achievements.json",
+      "steam_settings\\DLC.txt",
+      "steam_settings\\force_account_name.txt",
+      "steam_settings\\force_language.txt",
+      "steam_settings\\stats.txt",
+      "steam_appid.txt",
+      "Overcooked All You Can Eat_Data\\Plugins\\x86_64",
+      "Overcooked All You Can Eat_Data\\Plugins",
+      "Overcooked All You Can Eat_Data",
+      "steam_settings"
+    ],
     "variants": null
   }
 ]
