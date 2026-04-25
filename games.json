@@ -2354,7 +2354,21 @@
     "offlineCrackLink": "https://www.mediafire.com/file/fxef10qk42mo58z/OVERCOOK_AYCE_OFF_CRACK.rar/file",
     "onlineCrackPassword": null,
     "offlineCrackPassword": null,
-    "onlineCrackManifest": null,
+    "onlineCrackManifest": [
+      "OnlineFix.json",
+      "OnlineFix.url",
+      "OnlineFix64.dll",
+      "SteamOverlay64.dll",
+      "winmm.dll",
+      "XboxLiveAuth.exe",
+      "Overcooked All You Can Eat_Data\\Plugins\\x86_64\\steam_api64.dll",
+      "Custom.dll",
+      "dlllist.txt",
+      "OnlineFix.ini",
+      "Overcooked All You Can Eat_Data\\Plugins\\x86_64",
+      "Overcooked All You Can Eat_Data\\Plugins",
+      "Overcooked All You Can Eat_Data"
+    ],
     "offlineCrackManifest": [
       "Overcooked All You Can Eat_Data\\Plugins\\x86_64\\steam_api64.dll",
       "steam_settings\\achievements.json",
