@@ -2281,7 +2281,16 @@
     "dependentParts": "nao",
     "downloadUrl": "https://www.mediafire.com/file/5sfihrhcuhmas79/LX_OVER2FIT_001.rar/file",
     "partLinks": null,
-    "saveGames": null,
+    "saveGames": [
+      {
+        "url": "",
+        "path": "%AppData%\\Goldberg SteamEmu Saves\\728880\\remote"
+      },
+      {
+        "url": "",
+        "path": "C:\\Users\\Public\\Documents\\OnlineFix\\728880\\Saves"
+      }
+    ],
     "executablePath": "",
     "gameSizeBytes": 8509487950,
     "onlineCrackLink": "https://www.mediafire.com/file/v1n9roh5w757dgo/OVERCOOKED_2_ON_CRACK.rar/file",
