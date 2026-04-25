@@ -2219,5 +2219,29 @@
       "Schedule I_Data"
     ],
     "variants": null
+  },
+  {
+    "name": "Cuphead",
+    "crackTag": null,
+    "version": "STEAM",
+    "date": "",
+    "icon": "https://user-images.githubusercontent.com/53346722/66120658-fa659480-e5a0-11e9-9c6a-247a1605159e.jpg",
+    "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/capsule_616x353.jpg?t=1709068852",
+    "build": "20241530",
+    "appId": "268910",
+    "isMultipart": false,
+    "dependentParts": "nao",
+    "downloadUrl": "https://www.mediafire.com/file/dzia3eok2iz7iek/LX_CUPFIT_001.rar/file",
+    "partLinks": null,
+    "saveGames": null,
+    "executablePath": "",
+    "gameSizeBytes": null,
+    "onlineCrackLink": null,
+    "offlineCrackLink": null,
+    "onlineCrackPassword": null,
+    "offlineCrackPassword": null,
+    "onlineCrackManifest": null,
+    "offlineCrackManifest": null,
+    "variants": null
   }
 ]
