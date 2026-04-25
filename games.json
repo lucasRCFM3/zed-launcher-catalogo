@@ -324,7 +324,7 @@
         ],
         "saveGames": null,
         "executablePath": "",
-        "gameSizeBytes": null,
+        "gameSizeBytes": 164622864186,
         "onlineCrackLink": null,
         "offlineCrackLink": null,
         "onlineCrackPassword": null,
@@ -397,7 +397,38 @@
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
     "offlineCrackManifest": null,
-    "variants": null
+    "variants": [
+      {
+        "name": "Injustice 2 Legendary Edition",
+        "crackTag": null,
+        "version": "STEAM",
+        "date": "",
+        "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3367fa99-0ba6-454c-b947-683f1a9f896d/ddwheyg-d33f0fb2-81f4-431b-9fd6-f5fdd1db49c0.png",
+        "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/249064/header.jpg?t=1745616172",
+        "build": "21995972",
+        "appId": "627270",
+        "isMultipart": true,
+        "dependentParts": "nao",
+        "downloadUrl": null,
+        "partLinks": [
+          "https://www.mediafire.com/file/jkhsk3s7ozfvqjc/LX_INJ2_001.rar/file",
+          "https://www.mediafire.com/file/piz1erxy66ergfq/LX_INJ2_002.rar/file",
+          "https://www.mediafire.com/file/mwk8t5duwprnfz2/LX_INJ2_003.rar/file",
+          "https://www.mediafire.com/file/f6qi00boju0g11d/LX_INJ2_004.rar/file",
+          "https://www.mediafire.com/file/he4mma64ee3o8pg/LX_INJ2_005.rar/file"
+        ],
+        "saveGames": null,
+        "executablePath": "",
+        "gameSizeBytes": null,
+        "onlineCrackLink": null,
+        "offlineCrackLink": null,
+        "onlineCrackPassword": null,
+        "offlineCrackPassword": null,
+        "onlineCrackManifest": null,
+        "offlineCrackManifest": null,
+        "variants": null
+      }
+    ]
   },
   {
     "name": "Marvel's Spider-Man Remastered",
