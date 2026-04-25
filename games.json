@@ -202,7 +202,50 @@
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
     "offlineCrackManifest": null,
-    "variants": null
+    "variants": [
+      {
+        "name": "Tekken 8",
+        "crackTag": null,
+        "version": "STEAM",
+        "date": "",
+        "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dgae8j1-c7b764bd-8e61-408f-a42c-5092e3a8f644.png/v1/fill/w_512,h_512/tekken_8_icon_by_andonovmarko_dgae8j1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OS9kZ2FlOGoxLWM3Yjc2NGJkLThlNjEtNDA4Zi1hNDJjLTUwOTJlM2E4ZjY0NC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.O2Nm0RQKOBytiqYJRFOoLITmIcZOt9cNP-Rtwej6pLg",
+        "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1778820/f69b0f7c35aa8c966d9ff74c2bae548dbea072e4/header.jpg?t=1770678135",
+        "build": "22808554",
+        "appId": "1778820",
+        "isMultipart": true,
+        "dependentParts": "ambos",
+        "downloadUrl": null,
+        "partLinks": [
+          "https://www.mediafire.com/file/zso6i36ekdvx68q/LX_UPTK8FIT_001.rar/file",
+          "https://www.mediafire.com/file/qfdh2ps4fne5gvk/LX_UPTK8FIT_002.rar/file",
+          "https://www.mediafire.com/file/2ikvfhclkbxc07r/BlaLX_UPTK8FIT_003.rar/file",
+          "https://www.mediafire.com/file/j3pp2wgb5yrx8nu/LX_UPTK8FIT_004.rar/file",
+          "https://www.mediafire.com/file/3mu54ambhqizjic/LX_UPTK8FIT_005.rar/file",
+          "https://www.mediafire.com/file/8gw9himjxcns31w/BlbLX_UPTK8FIT_006.rar/file",
+          "https://www.mediafire.com/file/iap0v36k2userns/LX_UPTK8FIT_007.rar/file",
+          "https://www.mediafire.com/file/u2kuxkwkd7dskz6/LX_UPTK8FIT_008.rar/file",
+          "https://www.mediafire.com/file/mii4qv8fhni0a5j/LX_UPTK8FIT_009.rar/file",
+          "https://www.mediafire.com/file/2jl47fewi16wpz3/LX_UPTK8FIT_010.rar/file",
+          "https://www.mediafire.com/file/xbaf2rlwc87t0z0/LX_UPTK8FIT_011.rar/file",
+          "https://www.mediafire.com/file/d5gd5ujglz1pbs0/LX_UPTK8FIT_012.rar/file",
+          "https://www.mediafire.com/file/ne6zpdreb7uk8ez/BlaLX_UPTK8FIT_013.rar/file",
+          "https://www.mediafire.com/file/j15005gmvxd4nhz/LX_UPTK8FIT_014_lxpta2.part1.rar/file",
+          "https://www.mediafire.com/file/tecri201ugstbu1/BlbLX_UPTK8FIT_014_lxpta2.part2.rar/file",
+          "https://www.mediafire.com/file/u9zwukjw3nucisg/LX_UPTK8FIT_015_lxptb2.part1.rar/file",
+          "https://www.mediafire.com/file/1krofs12lag5ccq/LX_UPTK8FIT_015_lxptb2.part2.rar/file"
+        ],
+        "saveGames": null,
+        "executablePath": "TEKKEN 8.exe",
+        "gameSizeBytes": 135709493794,
+        "onlineCrackLink": null,
+        "offlineCrackLink": null,
+        "onlineCrackPassword": null,
+        "offlineCrackPassword": null,
+        "onlineCrackManifest": null,
+        "offlineCrackManifest": null,
+        "variants": null
+      }
+    ]
   },
   {
     "name": "Mortal Kombat 11 Ultimate Edition",
