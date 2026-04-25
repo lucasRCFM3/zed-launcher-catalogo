@@ -2273,7 +2273,32 @@
     "offlineCrackPassword": null,
     "onlineCrackManifest": null,
     "offlineCrackManifest": null,
-    "variants": null
+    "variants": [
+      {
+        "name": "Cuphead",
+        "crackTag": null,
+        "version": "TAR",
+        "date": "",
+        "icon": "https://user-images.githubusercontent.com/53346722/66120658-fa659480-e5a0-11e9-9c6a-247a1605159e.jpg",
+        "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268910/capsule_616x353.jpg?t=1709068852",
+        "build": "20241530",
+        "appId": "268910",
+        "isMultipart": false,
+        "dependentParts": "nao",
+        "downloadUrl": "https://www.mediafire.com/file/4hin88yqw05j748/LX_JIND_001.tar/file",
+        "partLinks": null,
+        "saveGames": null,
+        "executablePath": "",
+        "gameSizeBytes": null,
+        "onlineCrackLink": null,
+        "offlineCrackLink": null,
+        "onlineCrackPassword": null,
+        "offlineCrackPassword": null,
+        "onlineCrackManifest": null,
+        "offlineCrackManifest": null,
+        "variants": null
+      }
+    ]
   },
   {
     "name": "Overcooked",
